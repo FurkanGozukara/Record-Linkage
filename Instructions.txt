@@ -1,5 +1,10 @@
 -> If you use Turkish_Ecommerce_Products_by_Gozukara_and_Ozel_2016 dataset, please cite: //The article is not published yet, please contact us via furkangozukara@gmail.com
 
+-> elki-bundle-0.7.2-SNAPSHOT.jar Is the ELKI bundle that we have compiled from the github source code of ELKI. The date of the source code is 6 June 2016. The compile command is as below:
+->-> mvn -DskipTests -Dmaven.javadoc.skip=true -P svg,bundle package
+->-> Github repository of ELKI: https://github.com/elki-project/elki
+->-> This bundle file is used for all of the experiments that are presented in the article
+
 -> Turkish_Ecommerce_Products_by_Gozukara_and_Ozel_2016 dataset is composed as below:
 ->-> Top 50 E-commerce websites that operate in Turkey are crawled, and their attributes are extracted.
 ->-> The crawling is made between 2015-01-13 15:12:46 ---- 2015-01-17 19:07:53 dates.
