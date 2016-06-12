@@ -1,0 +1,3019 @@
+@relation 'ggwp'
+@attribute _apple numeric
+@attribute _iphone numeric
+@attribute _plus numeric
+@attribute _16gb numeric
+@attribute _cep numeric
+@attribute _telefonu numeric
+@attribute _samsung numeric
+@attribute _ue48h6270 numeric
+@attribute _led numeric
+@attribute _televizyon numeric
+@attribute _ue numeric
+@attribute _48h6270 numeric
+@attribute _philips numeric
+@attribute _18 numeric
+@attribute _5inc numeric
+@attribute _193v5lsb2 numeric
+@attribute _62 numeric
+@attribute _5ms numeric
+@attribute _monitor numeric
+@attribute _193v5lsb262 numeric
+@attribute _siyah numeric
+@attribute _dscw800 numeric
+@attribute _201mp numeric
+@attribute _5x numeric
+@attribute _optik numeric
+@attribute _27inc numeric
+@attribute _lcd numeric
+@attribute _dijital numeric
+@attribute _kompakt numeric
+@attribute _dsc numeric
+@attribute _w800 numeric
+@attribute _20 numeric
+@attribute _1mp numeric
+@attribute _7inc numeric
+@attribute _tefal numeric
+@attribute _gv8930 numeric
+@attribute _pro numeric
+@attribute _express numeric
+@attribute _buhar numeric
+@attribute _jeneratorlu numeric
+@attribute _utu numeric
+@attribute _sony numeric
+@attribute _xperia numeric
+@attribute _z2 numeric
+@attribute _kazanli numeric
+@attribute _smt800 numeric
+@attribute _tabs numeric
+@attribute _105 numeric
+@attribute _beyaz numeric
+@attribute _tablet numeric
+@attribute _sm numeric
+@attribute _t800 numeric
+@attribute _10 numeric
+@attribute _g850f numeric
+@attribute _galaxy numeric
+@attribute _alpha numeric
+@attribute _sapphire numeric
+@attribute _4gb numeric
+@attribute _r9 numeric
+@attribute _290x numeric
+@attribute _oc numeric
+@attribute _trix numeric
+@attribute _gddr5 numeric
+@attribute _512 numeric
+@attribute _bit numeric
+@attribute _112260040g numeric
+@attribute _hdmi numeric
+@attribute _2xdvi numeric
+@attribute _ati numeric
+@attribute _16x numeric
+@attribute _tri numeric
+@attribute _11226 numeric
+@attribute _00 numeric
+@attribute _40g numeric
+@attribute _bar numeric
+@attribute _space numeric
+@attribute _gray numeric
+@attribute _8mp numeric
+@attribute _55 numeric
+@attribute _distributor numeric
+@attribute _corsair numeric
+@attribute _graphite numeric
+@attribute _780t numeric
+@attribute _arctic numeric
+@attribute _usb30 numeric
+@attribute _fulltower numeric
+@attribute _pencereli numeric
+@attribute _guc numeric
+@attribute _kaynaksiz numeric
+@attribute _kasa numeric
+@attribute _cc9011059ww numeric
+@attribute _full numeric
+@attribute _tower numeric
+@attribute _cc numeric
+@attribute _9011059 numeric
+@attribute _ww numeric
+@attribute _usb3 numeric
+@attribute _m2 numeric
+@attribute _aqua numeric
+@attribute _akilli numeric
+@attribute _telefon numeric
+@attribute _smartphone numeric
+@attribute _g850 numeric
+@attribute _ue40h7000 numeric
+@attribute _40inc numeric
+@attribute _102cm numeric
+@attribute _smart numeric
+@attribute _3d numeric
+@attribute _tv numeric
+@attribute _40h7000 numeric
+@attribute _nwzb183b numeric
+@attribute _cew numeric
+@attribute _gb numeric
+@attribute _mp3 numeric
+@attribute _player numeric
+@attribute _goldmaster numeric
+@attribute _ranger numeric
+@attribute _hd numeric
+@attribute _pvr numeric
+@attribute _uydu numeric
+@attribute _alicisi numeric
+@attribute _oralb numeric
+@attribute _eb202 numeric
+@attribute _precision numeric
+@attribute _clean numeric
+@attribute _dis numeric
+@attribute _fircasi numeric
+@attribute _yedegi numeric
+@attribute _oral numeric
+@attribute _eb20 numeric
+@attribute _xigmatek numeric
+@attribute _cpa070bcdu42 numeric
+@attribute _700w numeric
+@attribute _82plus numeric
+@attribute _bronze numeric
+@attribute _power numeric
+@attribute _supply numeric
+@attribute _cpa numeric
+@attribute _070bcd numeric
+@attribute _u42 numeric
+@attribute _gv numeric
+@attribute _8930 numeric
+@attribute _sandisk numeric
+@attribute _sdcz52008gb35 numeric
+@attribute _8gb numeric
+@attribute _usb numeric
+@attribute _swich numeric
+@attribute _flash numeric
+@attribute _bellek numeric
+@attribute _sdcz52 numeric
+@attribute _008g numeric
+@attribute _b35 numeric
+@attribute _psx3 numeric
+@attribute _dragon numeric
+@attribute _age numeric
+@attribute _inquisition numeric
+@attribute _lenovo numeric
+@attribute _ideapad numeric
+@attribute _z5070 numeric
+@attribute _59 numeric
+@attribute _424576 numeric
+@attribute _notebook numeric
+@attribute _canon numeric
+@attribute _eos numeric
+@attribute _600d numeric
+@attribute _1855mm numeric
+@attribute _dc numeric
+@attribute _lens numeric
+@attribute _dslr numeric
+@attribute _fotograf numeric
+@attribute _makinesi numeric
+@attribute _55mm numeric
+@attribute _fhd numeric
+@attribute _dvbs numeric
+@attribute _gozluk numeric
+@attribute _dvb numeric
+@attribute _ewn689n numeric
+@attribute _300 numeric
+@attribute _mbps numeric
+@attribute _kablosuz numeric
+@attribute _adaptor numeric
+@attribute _ewn numeric
+@attribute _689n numeric
+@attribute _tab numeric
+@attribute _smt800nzwatur numeric
+@attribute _exynos numeric
+@attribute _5420 numeric
+@attribute _octacore numeric
+@attribute _16 numeric
+@attribute _105inc numeric
+@attribute _android numeric
+@attribute _44 numeric
+@attribute _t800nzwatur numeric
+@attribute _me176cx1a008a numeric
+@attribute _quad numeric
+@attribute _core numeric
+@attribute _me176cx numeric
+@attribute _1a008a numeric
+@attribute _59424576 numeric
+@attribute _i54210u numeric
+@attribute _17ghz numeric
+@attribute _1tb numeric
+@attribute _8gbsshd numeric
+@attribute _2gb numeric
+@attribute _gt820m numeric
+@attribute _156inc numeric
+@attribute _windows numeric
+@attribute _81 numeric
+@attribute _i5 numeric
+@attribute _4210u numeric
+@attribute _7ghz numeric
+@attribute _15 numeric
+@attribute _6inc numeric
+@attribute _creative numeric
+@attribute _sbs numeric
+@attribute _a120 numeric
+@attribute _21 numeric
+@attribute _watt numeric
+@attribute _rms numeric
+@attribute _hoparlor numeric
+@attribute _logitech numeric
+@attribute _mk240 numeric
+@attribute _wireless numeric
+@attribute _desktop numeric
+@attribute _klavye numeric
+@attribute _mouse numeric
+@attribute _set numeric
+@attribute _920005789 numeric
+@attribute _920 numeric
+@attribute _005789 numeric
+@attribute _g850fq numeric
+@attribute _rangerplus numeric
+@attribute _oynaticili numeric
+@attribute _ethernet numeric
+@attribute _girisli numeric
+@attribute _hcv100 numeric
+@attribute _42x numeric
+@attribute _zoom numeric
+@attribute _video numeric
+@attribute _kamera numeric
+@attribute _hc numeric
+@attribute _v100 numeric
+@attribute _shl3000bl numeric
+@attribute _tamboy numeric
+@attribute _mavi numeric
+@attribute _gc4860 numeric
+@attribute _37 numeric
+@attribute _azur numeric
+@attribute _2600w numeric
+@attribute _buharli numeric
+@attribute _gc numeric
+@attribute _4860 numeric
+@attribute _powersonic numeric
+@attribute _1200va numeric
+@attribute _line numeric
+@attribute _interactive numeric
+@attribute _ups numeric
+@attribute _airties numeric
+@attribute _air numeric
+@attribute _5750 numeric
+@attribute _300mbps867mbps numeric
+@attribute _vdsl2 numeric
+@attribute _kablosuzac numeric
+@attribute _port numeric
+@attribute _adsl2+ numeric
+@attribute _modem numeric
+@attribute _300mbps numeric
+@attribute _867mbps numeric
+@attribute _ac numeric
+@attribute _everest numeric
+@attribute _tk5 numeric
+@attribute _lcdled numeric
+@attribute _slim numeric
+@attribute _aski numeric
+@attribute _aparati numeric
+@attribute _tk numeric
+@attribute _slink numeric
+@attribute _slx590 numeric
+@attribute _rg6 numeric
+@attribute _2m numeric
+@attribute _anten numeric
+@attribute _kablosu numeric
+@attribute _link numeric
+@attribute _slx numeric
+@attribute _590 numeric
+@attribute _nikon numeric
+@attribute _d7000 numeric
+@attribute _18105mm numeric
+@attribute _vr numeric
+@attribute _kit numeric
+@attribute _105mm numeric
+@attribute _dual numeric
+@attribute _14 numeric
+@attribute _ghz numeric
+@attribute _renk numeric
+@attribute _seceneklerini numeric
+@attribute _sorunuz numeric
+@attribute _slr numeric
+@attribute _18105 numeric
+@attribute _mm numeric
+@attribute _seagate numeric
+@attribute _stdr1000201 numeric
+@attribute _bplus numeric
+@attribute _gumus numeric
+@attribute _tasinabilir numeric
+@attribute _disk numeric
+@attribute _30 numeric
+@attribute _snopy numeric
+@attribute _sg650 numeric
+@attribute _joystick numeric
+@attribute _sg numeric
+@attribute _650 numeric
+@attribute _zalman numeric
+@attribute _cnps11x numeric
+@attribute _performa numeric
+@attribute _intel numeric
+@attribute _amd numeric
+@attribute _cpu numeric
+@attribute _sogutucu numeric
+@attribute _transcend numeric
+@attribute _premium numeric
+@attribute _uhsi numeric
+@attribute _u1 numeric
+@attribute _45mb numeric
+@attribute _300x numeric
+@attribute _micro numeric
+@attribute _sdhc numeric
+@attribute _adaptorlu numeric
+@attribute _hafiza numeric
+@attribute _karti numeric
+@attribute _uhs numeric
+@attribute _1855 numeric
+@attribute _tk6109 numeric
+@attribute _masaustu numeric
+@attribute _metalik numeric
+@attribute _gri numeric
+@attribute _camerad7000kit numeric
+@attribute _162 numeric
+@attribute _mp numeric
+@attribute _3inc numeric
+@attribute _ekran numeric
+@attribute _kitli numeric
+@attribute _camera numeric
+@attribute _18mp numeric
+@attribute _g230 numeric
+@attribute _kablolu numeric
+@attribute _oyuncu numeric
+@attribute _kulakligi numeric
+@attribute _981000540 numeric
+@attribute _981 numeric
+@attribute _000540 numeric
+@attribute _tk150 numeric
+@attribute _masa numeric
+@attribute _ustu numeric
+@attribute _duvar numeric
+@attribute _tipi numeric
+@attribute _19 numeric
+@attribute _203v5lsb26 numeric
+@attribute _dsub numeric
+@attribute _sub numeric
+@attribute _fakir numeric
+@attribute _rh12 numeric
+@attribute _halojenli numeric
+@attribute _12 numeric
+@attribute _dilim numeric
+@attribute _yagli numeric
+@attribute _radyator numeric
+@attribute _rh numeric
+@attribute _ue55hu7500 numeric
+@attribute _inc numeric
+@attribute _140cm numeric
+@attribute _1000hz numeric
+@attribute _wifi numeric
+@attribute _alicili numeric
+@attribute _4k numeric
+@attribute _uhd numeric
+@attribute _55hu7500 numeric
+@attribute _pc numeric
+@attribute _world numeric
+@attribute _of numeric
+@attribute _warcraft numeric
+@attribute _warlords numeric
+@attribute _draenor numeric
+@attribute _dishonored numeric
+@attribute _frisby numeric
+@attribute _fhc2530s numeric
+@attribute _25 numeric
+@attribute _sata numeric
+@attribute _95mm numeric
+@attribute _fhc numeric
+@attribute _2530s numeric
+@attribute _5mm numeric
+@attribute _0inc numeric
+@attribute _d3200 numeric
+@attribute _ii numeric
+@attribute _242 numeric
+@attribute _24 numeric
+@attribute _250gb numeric
+@attribute _850 numeric
+@attribute _evo numeric
+@attribute _okuma numeric
+@attribute _540mb numeric
+@attribute _yazma numeric
+@attribute _520mb numeric
+@attribute _ssd numeric
+@attribute _mz75e250bw numeric
+@attribute _mz numeric
+@attribute _75e250bw numeric
+@attribute _600hz numeric
+@attribute _102 numeric
+@attribute _quadcore numeric
+@attribute _195 numeric
+@attribute _185 numeric
+@attribute _4s numeric
+@attribute _kitkat numeric
+@attribute _panasonic numeric
+@attribute _deskjet numeric
+@attribute _2645 numeric
+@attribute _yazici numeric
+@attribute _tarayici numeric
+@attribute _fotokopi numeric
+@attribute _faks numeric
+@attribute _d4h22c numeric
+@attribute _ipad numeric
+@attribute _mh182tua numeric
+@attribute _64 numeric
+@attribute _97inc numeric
+@attribute _ios numeric
+@attribute _altin numeric
+@attribute _mh182tu numeric
+@attribute _wi numeric
+@attribute _fi numeric
+@attribute _cruzer numeric
+@attribute _switch numeric
+@attribute _203v5lsb262 numeric
+@attribute _parlak numeric
+@attribute _203v5lsb2 numeric
+@attribute _d6503 numeric
+@attribute _200hz numeric
+@attribute _adet numeric
+@attribute _hediye numeric
+@attribute _ekia numeric
+@attribute _ek402 numeric
+@attribute _u2 numeric
+@attribute _unitesi numeric
+@attribute _27inc32inc numeric
+@attribute _farkli numeric
+@attribute _renkte numeric
+@attribute _ek numeric
+@attribute _402 numeric
+@attribute _32inc numeric
+@attribute _microsoft numeric
+@attribute _mobile numeric
+@attribute _3000 numeric
+@attribute _2ef00003 numeric
+@attribute _2ef numeric
+@attribute _00003 numeric
+@attribute _mac numeric
+@attribute _mini numeric
+@attribute _mgen2tu numeric
+@attribute _i526 numeric
+@attribute _tb numeric
+@attribute _os numeric
+@attribute _26 numeric
+@attribute _i52 numeric
+@attribute _s19c150f numeric
+@attribute _stdr1000200 numeric
+@attribute _backup numeric
+@attribute _nwzb183f numeric
+@attribute _fm numeric
+@attribute _radyomp3 numeric
+@attribute _calar numeric
+@attribute _outlet numeric
+@attribute _radyo numeric
+@attribute _class10 numeric
+@attribute _sdsdu016gu46 numeric
+@attribute _sdsdu numeric
+@attribute _016g numeric
+@attribute _u46 numeric
+@attribute _gskill numeric
+@attribute _4x4gb numeric
+@attribute _ripjaws4 numeric
+@attribute _ddr4 numeric
+@attribute _2666mhz numeric
+@attribute _cl16 numeric
+@attribute _12v numeric
+@attribute _ouad numeric
+@attribute _ram numeric
+@attribute _f42666c16q16grb numeric
+@attribute _f4 numeric
+@attribute _2666c16q numeric
+@attribute _16grb numeric
+@attribute _2v numeric
+@attribute _mf6140dn numeric
+@attribute _lazer numeric
+@attribute _cok numeric
+@attribute _fonk numeric
+@attribute _yaz numeric
+@attribute _tar numeric
+@attribute _fot numeric
+@attribute _fax numeric
+@attribute _a4 numeric
+@attribute _195inc numeric
+@attribute _asus numeric
+@attribute _me176cx1b008a numeric
+@attribute _memo numeric
+@attribute _pad numeric
+@attribute _1b008a numeric
+@attribute _dj220d numeric
+@attribute _hesap numeric
+@attribute _dj numeric
+@attribute _220d numeric
+@attribute _garantili numeric
+@attribute _lg numeric
+@attribute _42lb670v numeric
+@attribute _dahili numeric
+@attribute _slx241 numeric
+@attribute _disi numeric
+@attribute _den numeric
+@attribute _dvi numeric
+@attribute _24+5 numeric
+@attribute _erkek numeric
+@attribute _241 numeric
+@attribute _sound numeric
+@attribute _blaster numeric
+@attribute _boyun numeric
+@attribute _bantli numeric
+@attribute _gurultu numeric
+@attribute _engelleyici numeric
+@attribute _ozellikli numeric
+@attribute _mikrofonlu numeric
+@attribute _kulaklik numeric
+@attribute _slhv56 numeric
+@attribute _hdmito numeric
+@attribute _vga numeric
+@attribute _cevirici numeric
+@attribute _sl numeric
+@attribute _hv56 numeric
+@attribute _ventom numeric
+@attribute _hareketli numeric
+@attribute _10inc32inc numeric
+@attribute _vento numeric
+@attribute _10inc numeric
+@attribute _dslac68u numeric
+@attribute _cift numeric
+@attribute _bant numeric
+@attribute _kablosuzac1900 numeric
+@attribute _gigabit numeric
+@attribute _adsl numeric
+@attribute _vdsl numeric
+@attribute _router numeric
+@attribute _dsl numeric
+@attribute _ac68u numeric
+@attribute _ac1900 numeric
+@attribute _48inc numeric
+@attribute _122 numeric
+@attribute _cm numeric
+@attribute _slc460w numeric
+@attribute _renkli? numeric
+@attribute _ag numeric
+@attribute _c460w numeric
+@attribute _lcdhr610 numeric
+@attribute _24inc numeric
+@attribute _hr610 numeric
+@attribute _x360 numeric
+@attribute _medal numeric
+@attribute _honor numeric
+@attribute _warfighter numeric
+@attribute _32gb numeric
+@attribute _sd numeric
+@attribute _standard numeric
+@attribute _c6 numeric
+@attribute _ci5 numeric
+@attribute _26ghz numeric
+@attribute _iris numeric
+@attribute _yosemite numeric
+@attribute _6ghz numeric
+@attribute _ayni numeric
+@attribute _gun numeric
+@attribute _teslim numeric
+@attribute _hp numeric
+@attribute _933xl numeric
+@attribute _yuksek numeric
+@attribute _kapasiteli numeric
+@attribute _camgobegi numeric
+@attribute _orijinal numeric
+@attribute _murekkep numeric
+@attribute _kartusu numeric
+@attribute _cn054ae numeric
+@attribute _cooler numeric
+@attribute _cw9060009ww numeric
+@attribute _hydro numeric
+@attribute _series numeric
+@attribute _h100i numeric
+@attribute _compatible numeric
+@attribute _with numeric
+@attribute _lga115 numeric
+@attribute _1156 numeric
+@attribute _lga1366 numeric
+@attribute _lga2011 numeric
+@attribute _and numeric
+@attribute _am2 numeric
+@attribute _am2+ numeric
+@attribute _am3 numeric
+@attribute _am3+ numeric
+@attribute _fm1 numeric
+@attribute _cw numeric
+@attribute _9060009 numeric
+@attribute _laser numeric
+@attribute _foto numeric
+@attribute _dadf numeric
+@attribute _serit numeric
+@attribute _ml5720 numeric
+@attribute _90 numeric
+@attribute _44173405 numeric
+@attribute _crg731c numeric
+@attribute _cyan numeric
+@attribute _kartus numeric
+@attribute _lbp660 numeric
+@attribute _lbp660nt numeric
+@attribute _lbp660ax numeric
+@attribute _3150 numeric
+@attribute _5l numeric
+@attribute _6l numeric
+@attribute _lbp460 numeric
+@attribute _lbp465 numeric
+@attribute _crg numeric
+@attribute _731c numeric
+@attribute _altis numeric
+@attribute _75 numeric
+@attribute _pilates numeric
+@attribute _topu numeric
+@attribute _delonghi numeric
+@attribute _icm15250 numeric
+@attribute _filtre numeric
+@attribute _kahve numeric
+@attribute _hth4550r numeric
+@attribute _ev numeric
+@attribute _sinema numeric
+@attribute _sistemi numeric
+@attribute _turkiye numeric
+@attribute _ht numeric
+@attribute _h4550r numeric
+@attribute _tr numeric
+@attribute _fare numeric
+@attribute _oyun numeric
+@attribute _headset numeric
+@attribute _office numeric
+@attribute _home numeric
+@attribute _student numeric
+@attribute _2011 numeric
+@attribute _english numeric
+@attribute _middle numeric
+@attribute _east numeric
+@attribute _em numeric
+@attribute _dvd numeric
+@attribute _gza00277 numeric
+@attribute _gza numeric
+@attribute _00277 numeric
+@attribute _air2411 numeric
+@attribute _11n numeric
+@attribute _2411 numeric
+@attribute _eng numeric
+@attribute _usbn13 numeric
+@attribute _wirelessn300 numeric
+@attribute _adapter numeric
+@attribute _n13 numeric
+@attribute _n300 numeric
+@attribute _cc9011063ww numeric
+@attribute _psu numeric
+@attribute _yok numeric
+@attribute _9011063 numeric
+@attribute _targus numeric
+@attribute _amm01eu numeric
+@attribute _kalemi numeric
+@attribute _joypad numeric
+@attribute _oem numeric
+@attribute _single numeric
+@attribute _language numeric
+@attribute _32 numeric
+@attribute _turkce numeric
+@attribute _hm121908 numeric
+@attribute _li numeric
+@attribute _akim numeric
+@attribute _korumali numeric
+@attribute _priz numeric
+@attribute _hm numeric
+@attribute _121908 numeric
+@attribute _zyxel numeric
+@attribute _nsa325 numeric
+@attribute _depolama numeric
+@attribute _nsa numeric
+@attribute _325 numeric
+@attribute _4960999984094 numeric
+@attribute _nwzb183bcew numeric
+@attribute _walkman numeric
+@attribute _dschx60v numeric
+@attribute _dschx60vb numeric
+@attribute _hx60v numeric
+@attribute _gaming numeric
+@attribute _rf numeric
+@attribute _turbo numeric
+@attribute _f128758 numeric
+@attribute _universal numeric
+@attribute _sarj numeric
+@attribute _cihazi numeric
+@attribute _f12 numeric
+@attribute _8758 numeric
+@attribute _1x numeric
+@attribute _ddr3 numeric
+@attribute _1600 numeric
+@attribute _mhz numeric
+@attribute _cl9 numeric
+@attribute _vengeance numeric
+@attribute _cmz8gx3m1a1600c9 numeric
+@attribute _alici numeric
+@attribute _band numeric
+@attribute _force numeric
+@attribute _gs numeric
+@attribute _240 numeric
+@attribute _toggle numeric
+@attribute _nand numeric
+@attribute _cssdf240gbgsbk numeric
+@attribute _cssd numeric
+@attribute _f240gbgs numeric
+@attribute _bk numeric
+@attribute _total numeric
+@attribute _auto numeric
+@attribute _control numeric
+@attribute _hdrcx240eb numeric
+@attribute _cmos numeric
+@attribute _92mp numeric
+@attribute _27xoz numeric
+@attribute _298mm numeric
+@attribute _cz numeric
+@attribute _60p numeric
+@attribute _hdr numeric
+@attribute _cx240eb numeric
+@attribute _2mp numeric
+@attribute _29 numeric
+@attribute _8mm numeric
+@attribute _evga numeric
+@attribute _gtx980 numeric
+@attribute _superclock numeric
+@attribute _acx numeric
+@attribute _256 numeric
+@attribute _04gp42983kr numeric
+@attribute _04g numeric
+@attribute _p4 numeric
+@attribute _2983 numeric
+@attribute _kr numeric
+@attribute _resmi numeric
+@attribute _ab numeric
+@attribute _100 numeric
+@attribute _mekik numeric
+@attribute _aleti numeric
+@attribute _braun numeric
+@attribute _130 numeric
+@attribute _satin numeric
+@attribute _hair numeric
+@attribute _style&go numeric
+@attribute _seyahat numeric
+@attribute _sac numeric
+@attribute _kurutma numeric
+@attribute _1200 numeric
+@attribute _arnica numeric
+@attribute _bitkidem numeric
+@attribute _otomatik numeric
+@attribute _cay numeric
+@attribute _ih33320 numeric
+@attribute _serisi numeric
+@attribute _25inc numeric
+@attribute _240gb numeric
+@attribute _iii numeric
+@attribute _555mb numeric
+@attribute _525mb numeric
+@attribute _2+1 numeric
+@attribute _9w numeric
+@attribute _oki numeric
+@attribute _5790 numeric
+@attribute _133ghz numeric
+@attribute _qc numeric
+@attribute _1280x800 numeric
+@attribute _wxga numeric
+@attribute _bt40 numeric
+@attribute _33ghz numeric
+@attribute _bt4 numeric
+@attribute _ink numeric
+@attribute _advantage numeric
+@attribute _hx60vb numeric
+@attribute _gigabyte numeric
+@attribute _z97xgaming numeric
+@attribute _z97 numeric
+@attribute _socket numeric
+@attribute _1150 numeric
+@attribute _z97x numeric
+@attribute _crg731m numeric
+@attribute _kirmizi numeric
+@attribute _731m numeric
+@attribute _pavilion numeric
+@attribute _11n000nt numeric
+@attribute _k0w08ea numeric
+@attribute _pentium numeric
+@attribute _n3540 numeric
+@attribute _750 numeric
+@attribute _116inc numeric
+@attribute _win numeric
+@attribute _11 numeric
+@attribute _n000nt numeric
+@attribute _slx935 numeric
+@attribute _scart numeric
+@attribute _gold+kilifli numeric
+@attribute _kablo numeric
+@attribute _935 numeric
+@attribute _rtn10e numeric
+@attribute _lx numeric
+@attribute _150mbps numeric
+@attribute _access numeric
+@attribute _point numeric
+@attribute _rt numeric
+@attribute _n10e numeric
+@attribute _v2 numeric
+@attribute _distribitor numeric
+@attribute _185inc numeric
+@attribute _rf09 numeric
+@attribute _09 numeric
+@attribute _kablosuzn numeric
+@attribute _genis numeric
+@attribute _paketi numeric
+@attribute _air5343 numeric
+@attribute _air4310 numeric
+@attribute _erisim numeric
+@attribute _noktasi numeric
+@attribute _5343 numeric
+@attribute _4310 numeric
+@attribute _jeneratoru numeric
+@attribute _edifier numeric
+@attribute _image numeric
+@attribute _aurora numeric
+@attribute _tutku numeric
+@attribute _pembesi numeric
+@attribute _22w numeric
+@attribute _ses numeric
+@attribute _65ub980v numeric
+@attribute _dvbs2 numeric
+@attribute _t2 numeric
+@attribute _s2 numeric
+@attribute _57205790 numeric
+@attribute _5720 numeric
+@attribute _4port numeric
+@attribute _ap numeric
+@attribute _air5750 numeric
+@attribute _1200mbps numeric
+@attribute _11ac numeric
+@attribute _kafa numeric
+@attribute _addison numeric
+@attribute _hdd130 numeric
+@attribute _hdd numeric
+@attribute _kilifi numeric
+@attribute _19+1 numeric
+@attribute _cam numeric
+@attribute _and4 numeric
+@attribute _9+1 numeric
+@attribute _coolpixs2800b numeric
+@attribute _com numeric
+@attribute _20mp numeric
+@attribute _coolpix numeric
+@attribute _s2800b numeric
+@attribute _1600mhz numeric
+@attribute _sogutuculu numeric
+@attribute _tek numeric
+@attribute _modul numeric
+@attribute _54x numeric
+@attribute _264gb numeric
+@attribute _wifigold97incretinabluetooth10saate numeric
+@attribute _kadarpil numeric
+@attribute _omru437gr numeric
+@attribute _64gb numeric
+@attribute _97incretina numeric
+@attribute _bluetooth numeric
+@attribute _10saate numeric
+@attribute _wifigold9 numeric
+@attribute _7incretinabluetooth10saate numeric
+@attribute _7incretina numeric
+@attribute _glaxy numeric
+@attribute _ghz3 numeric
+@attribute _ram16gb numeric
+@attribute _disk105inccam numeric
+@attribute _and44 numeric
+@attribute _disk10 numeric
+@attribute _5inccam numeric
+@attribute _s+v+gl+16x numeric
+@attribute _avchd numeric
+@attribute _memory numeric
+@attribute _s2800 numeric
+@attribute _s5200 numeric
+@attribute _s800c numeric
+@attribute _xerox numeric
+@attribute _108r00796 numeric
+@attribute _t130140 numeric
+@attribute _toshiba numeric
+@attribute _w30dta104 numeric
+@attribute _w30dt numeric
+@attribute _104 numeric
+@attribute _d810 numeric
+@attribute _body numeric
+@attribute _36 numeric
+@attribute _2inc numeric
+@attribute _seti numeric
+@attribute _tv+2 numeric
+@attribute _value numeric
+@attribute _select numeric
+@attribute _cmv4gx3m1a1333c9 numeric
+@attribute _ddr31333mhz numeric
+@attribute _1333mhz numeric
+@attribute _20inc numeric
+@attribute _cb324ee numeric
+@attribute _no364xl numeric
+@attribute _no numeric
+@attribute _364xl numeric
+@attribute _roadstar numeric
+@attribute _rdh654 numeric
+@attribute _180 numeric
+@attribute _oto numeric
+@attribute _720p numeric
+@attribute _z150 numeric
+@attribute _1+1 numeric
+@attribute _speaker numeric
+@attribute _6w numeric
+@attribute _980000814 numeric
+@attribute _980 numeric
+@attribute _000814 numeric
+@attribute _master numeric
+@attribute _rrvtps28pkr1 numeric
+@attribute _vortex numeric
+@attribute _fan numeric
+@attribute _rr numeric
+@attribute _vtps numeric
+@attribute _28pk numeric
+@attribute _r1 numeric
+@attribute _c4906ae numeric
+@attribute _940xl numeric
+@attribute _officejet numeric
+@attribute _8000 numeric
+@attribute _8500 numeric
+@attribute _slx971 numeric
+@attribute _usb20 numeric
+@attribute _3m numeric
+@attribute _971 numeric
+@attribute _usb2 numeric
+@attribute _kinect numeric
+@attribute _sports numeric
+@attribute _ultimate numeric
+@attribute _creaa120 numeric
+@attribute _ahsap numeric
+@attribute _subwoofer numeric
+@attribute _crea numeric
+@attribute _sdhccard numeric
+@attribute _uzay numeric
+@attribute _grisi numeric
+@attribute _avermedia numeric
+@attribute _live numeric
+@attribute _gamer numeric
+@attribute _portable numeric
+@attribute _c875 numeric
+@attribute _slxm921 numeric
+@attribute _5m numeric
+@attribute _kilifli numeric
+@attribute _metal numeric
+@attribute _uclu numeric
+@attribute _m921 numeric
+@attribute _cli551c numeric
+@attribute _cli numeric
+@attribute _551c numeric
+@attribute _980000815 numeric
+@attribute _000815 numeric
+@attribute _150 numeric
+@attribute _c50b13h numeric
+@attribute _n2830 numeric
+@attribute _216ghz numeric
+@attribute _750gb numeric
+@attribute _c50 numeric
+@attribute _13h numeric
+@attribute _16ghz numeric
+@attribute _ingilizce numeric
+@attribute _kutu numeric
+@attribute _de numeric
+@attribute _longhi numeric
+@attribute _mekanik numeric
+@attribute _wd numeric
+@attribute _wdbluz0010bsl numeric
+@attribute _my numeric
+@attribute _passport numeric
+@attribute _icin numeric
+@attribute _mga82tu numeric
+@attribute _fcr40p numeric
+@attribute _in numeric
+@attribute _card numeric
+@attribute _reader numeric
+@attribute _ext numeric
+@attribute _fcr numeric
+@attribute _40p numeric
+@attribute _silver numeric
+@attribute _ultra numeric
+@attribute _c10 numeric
+@attribute _30mb numeric
+@attribute _sn numeric
+@attribute _kingston numeric
+@attribute _hyperx numeric
+@attribute _savage numeric
+@attribute _hx316c9sr numeric
+@attribute _ekgn100 numeric
+@attribute _nx numeric
+@attribute _gn100 numeric
+@attribute _p510 numeric
+@attribute _161 numeric
+@attribute _vna282e1 numeric
+@attribute _2800w numeric
+@attribute _4p numeric
+@attribute _adsl2vdsl2 numeric
+@attribute _adsl2 numeric
+@attribute _slx422 numeric
+@attribute _422 numeric
+@attribute _dschx60vbe32 numeric
+@attribute _204 numeric
+@attribute _e32 numeric
+@attribute _for numeric
+@attribute _canta numeric
+@attribute _g5045 numeric
+@attribute _a6 numeric
+@attribute _18ghz4gb500gb156 numeric
+@attribute _2gbw81 numeric
+@attribute _bilgisayar numeric
+@attribute _18ghz numeric
+@attribute _500gb numeric
+@attribute _156 numeric
+@attribute _w81 numeric
+@attribute _8ghz4gb500gb15 numeric
+@attribute _2gbw8 numeric
+@attribute _8ghz numeric
+@attribute _w8 numeric
+@attribute _120mm numeric
+@attribute _vtipi numeric
+@attribute _isi numeric
+@attribute _550w numeric
+@attribute _rs55080gaj3eu numeric
+@attribute _kaynagi numeric
+@attribute _rs550 numeric
+@attribute _80gaj3 numeric
+@attribute _eu numeric
+@attribute _ps3 numeric
+@attribute _avantajli numeric
+@attribute _faxli numeric
+@attribute _fonksiyonlu numeric
+@attribute _inkjet numeric
+@attribute _renkli numeric
+@attribute _32inc55inc numeric
+@attribute _lcd&led numeric
+@attribute _55inc numeric
+@attribute _n150 numeric
+@attribute _port150 numeric
+@attribute _battlefield numeric
+@attribute _edition numeric
+@attribute _82 numeric
+@attribute _wdbluz0010bsleesn numeric
+@attribute _eesn numeric
+@attribute _black numeric
+@attribute _satellite numeric
+@attribute _celeron numeric
+@attribute _241ghz4gb750gbint156w81 numeric
+@attribute _241ghz numeric
+@attribute _int numeric
+@attribute _41ghz4gb750gbint15 numeric
+@attribute _6w8 numeric
+@attribute _41ghz numeric
+@attribute _m317 numeric
+@attribute _910004183 numeric
+@attribute _910 numeric
+@attribute _004183 numeric
+@attribute _brother numeric
+@attribute _lc37c numeric
+@attribute _lc numeric
+@attribute _37c numeric
+@attribute _10yil numeric
+@attribute _utusu numeric
+@attribute _yil numeric
+@attribute _kulakustu numeric
+@attribute _xonar numeric
+@attribute _dsx numeric
+@attribute _71 numeric
+@attribute _pci numeric
+@attribute _ds numeric
+@attribute _inca numeric
+@attribute _iwm221rsk numeric
+@attribute _fascia numeric
+@attribute _nano numeric
+@attribute _iwm numeric
+@attribute _221rsk numeric
+@attribute _white numeric
+@attribute _1366x768 numeric
+@attribute _gaz97xgaming numeric
+@attribute _lga1150 numeric
+@attribute _ddr33200mhz numeric
+@attribute _anakart numeric
+@attribute _ga numeric
+@attribute _3200mhz numeric
+@attribute _to numeric
+@attribute _energizer numeric
+@attribute _lchehusbsyip2 numeric
+@attribute _hightech numeric
+@attribute _1m numeric
+@attribute _30pin numeric
+@attribute _data numeric
+@attribute _basincli numeric
+@attribute _allinone numeric
+@attribute _all numeric
+@attribute _one numeric
+@attribute _300897 numeric
+@attribute _133inc numeric
+@attribute _cantasi numeric
+@attribute _13 numeric
+@attribute _spacegrayapple numeric
+@attribute _garanti numeric
+@attribute _spacegray numeric
+@attribute _3g numeric
+@attribute _artronic numeric
+@attribute _optimum numeric
+@attribute _3kva numeric
+@attribute _dk numeric
+@attribute _online numeric
+@attribute _on numeric
+@attribute _usbsiyah numeric
+@attribute _80211ac numeric
+@attribute _802 numeric
+@attribute _1900 numeric
+@attribute _modemrouter numeric
+@attribute _ihome numeric
+@attribute _seg numeric
+@attribute _32sd5150 numeric
+@attribute _ready numeric
+@attribute _mikado numeric
+@attribute _mdbt11 numeric
+@attribute _tf numeric
+@attribute _kart numeric
+@attribute _destekli numeric
+@attribute _bluetoot numeric
+@attribute _sarjli numeric
+@attribute _md numeric
+@attribute _bt11 numeric
+@attribute _db numeric
+@attribute _fsp numeric
+@attribute _nb65 numeric
+@attribute _65w numeric
+@attribute _epson numeric
+@attribute _yz numeric
+@attribute _fota4 numeric
+@attribute _matlab numeric
+@attribute _yapay numeric
+@attribute _zeka numeric
+@attribute _ve numeric
+@attribute _muhendislik numeric
+@attribute _uygulamalari numeric
+@attribute _ue48h6270as numeric
+@attribute _aral numeric
+@attribute _far numeric
+@attribute _cry numeric
+@attribute _caselogic numeric
+@attribute _caflxm102m numeric
+@attribute _logic numeric
+@attribute _reflexion numeric
+@attribute _messenger numeric
+@attribute _tasima numeric
+@attribute _boz numeric
+@attribute _ca numeric
+@attribute _flxm102m numeric
+@attribute _air2 numeric
+@attribute _tak numeric
+@attribute _kullan numeric
+@attribute _5dbi numeric
+@attribute _ez numeric
+@attribute _wps numeric
+@attribute _xaff1253 numeric
+@attribute _120 numeric
+@attribute _25mm numeric
+@attribute _isikli numeric
+@attribute _fani numeric
+@attribute _xaf numeric
+@attribute _f1253 numeric
+@attribute _notepal numeric
+@attribute _dlite numeric
+@attribute _r9nbcdltkgp numeric
+@attribute _15inc numeric
+@attribute _fanli numeric
+@attribute _lite numeric
+@attribute _nbc numeric
+@attribute _dltk numeric
+@attribute _gp numeric
+@attribute _slx301 numeric
+@attribute _15m numeric
+@attribute _24k numeric
+@attribute _korkilif numeric
+@attribute _ver numeric
+@attribute _301 numeric
+@attribute _kor numeric
+@attribute _kilif numeric
+@attribute _mobil numeric
+@attribute _thd03804eu numeric
+@attribute _clickin numeric
+@attribute _pembe numeric
+@attribute _click numeric
+@attribute _ipod numeric
+@attribute _shuffle numeric
+@attribute _mor numeric
+@attribute _md777tz numeric
+@attribute _disksiz numeric
+@attribute _mak numeric
+@attribute _8tb2x3 numeric
+@attribute _8tb numeric
+@attribute _2x3 numeric
+@attribute _24ghz numeric
+@attribute _4ghz numeric
+@attribute _pioneer numeric
+@attribute _avhx1500dvd numeric
+@attribute _2din numeric
+@attribute _61inc numeric
+@attribute _dokunmatik numeric
+@attribute _ekranli numeric
+@attribute _multimedya numeric
+@attribute _avh numeric
+@attribute _x1500dvd numeric
+@attribute _1inc numeric
+@attribute _t1301 numeric
+@attribute _186ghz numeric
+@attribute _86ghz numeric
+@attribute _2ek7030 numeric
+@attribute _s5 numeric
+@attribute _koruyucu numeric
+@attribute _iz numeric
+@attribute _birakmayan numeric
+@attribute _hard numeric
+@attribute _ip262 numeric
+@attribute _ip numeric
+@attribute _262 numeric
+@attribute _viewsonic numeric
+@attribute _vg2401mh numeric
+@attribute _ergonomik numeric
+@attribute _monitoru numeric
+@attribute _vg2732m numeric
+@attribute _uyumlu numeric
+@attribute _titresimli numeric
+@attribute _kolu numeric
+@attribute _touch numeric
+@attribute _ultrabook numeric
+@attribute _standli numeric
+@attribute _nexvg30ehb numeric
+@attribute _degistirilebilir numeric
+@attribute _objektifli numeric
+@attribute _nex numeric
+@attribute _vg30ehb numeric
+@attribute _500 numeric
+@attribute _smgtab303 numeric
+@attribute _101inc numeric
+@attribute _tab3 numeric
+@attribute _smg numeric
+@attribute _03 numeric
+@attribute _thz37202eu numeric
+@attribute _foliostand numeric
+@attribute _oj numeric
+@attribute _80008500 numeric
+@attribute _nwzb173l numeric
+@attribute _cev numeric
+@attribute _poseidon numeric
+@attribute _gtx780p3gd5 numeric
+@attribute _3gb numeric
+@attribute _384 numeric
+@attribute _gtx780 numeric
+@attribute _3gd5 numeric
+@attribute _air2411airties numeric
+@attribute _2411airties numeric
+@attribute _363 numeric
+@attribute _c8721e numeric
+@attribute _nesil numeric
+@attribute _24? numeric
+@attribute _144hz numeric
+@attribute _1ms numeric
+@attribute _cats110k numeric
+@attribute _cli526bk numeric
+@attribute _mg5150 numeric
+@attribute _mg6150 numeric
+@attribute _ip4850 numeric
+@attribute _ix6550 numeric
+@attribute _526bk numeric
+@attribute _fm915k numeric
+@attribute _915k numeric
+@attribute _sogutucusu numeric
+@attribute _240mm numeric
+@attribute _su numeric
+@attribute _sogutma numeric
+@attribute _asiri numeric
+@attribute _performans numeric
+@attribute _c13t130140 numeric
+@attribute _bx305f numeric
+@attribute _wf7515 numeric
+@attribute _3520dwf numeric
+@attribute _phaser numeric
+@attribute _7100 numeric
+@attribute _std numeric
+@attribute _kapasite numeric
+@attribute _magenta numeric
+@attribute _106r02607 numeric
+@attribute _kutusu numeric
+@attribute _775 numeric
+@attribute _1155 numeric
+@attribute _1366&am2 numeric
+@attribute _islemci numeric
+@attribute _1366 numeric
+@attribute _2011&am2 numeric
+@attribute _atr17 numeric
+@attribute _46128cm numeric
+@attribute _cantali numeric
+@attribute _tripod numeric
+@attribute _atr numeric
+@attribute _17 numeric
+@attribute _46 numeric
+@attribute _128cm numeric
+@attribute _sivi numeric
+@attribute _106r01476 numeric
+@attribute _26k numeric
+@attribute _6121 numeric
+@attribute _6k numeric
+@attribute _turuncu numeric
+@attribute _thermaltake numeric
+@attribute _harmor numeric
+@attribute _35inc numeric
+@attribute _st0034z numeric
+@attribute _sata3 numeric
+@attribute _6gb numeric
+@attribute _555 numeric
+@attribute _525 numeric
+@attribute _bccssdf240gbgsbk numeric
+@attribute _bc numeric
+@attribute _tip numeric
+@attribute _sms numeric
+@attribute _toz numeric
+@attribute _torbasi numeric
+@attribute _paket numeric
+@attribute _lc47c numeric
+@attribute _400 numeric
+@attribute _sayfa numeric
+@attribute _110 numeric
+@attribute _210 numeric
+@attribute _425c numeric
+@attribute _lc47 numeric
+@attribute _isensys numeric
+@attribute _mf8230cn numeric
+@attribute _sensys numeric
+@attribute _rs numeric
+@attribute _550 numeric
+@attribute _silent numeric
+@attribute _80plus numeric
+@attribute _centauro numeric
+@attribute _80+ numeric
+@attribute _n7100 numeric
+@attribute _note numeric
+@attribute _film numeric
+@attribute _nwzb173b numeric
+@attribute _purple numeric
+@attribute _1900mbit numeric
+@attribute _adslvdslfiber numeric
+@attribute _fiber numeric
+@attribute _15mt numeric
+@attribute _lcaechaa15 numeric
+@attribute _5mt numeric
+@attribute _65 numeric
+@attribute _164 numeric
+@attribute _premiss numeric
+@attribute _turkuaz numeric
+@attribute _banyo numeric
+@attribute _tartisi numeric
+@attribute _soket numeric
+@attribute _z97xgaming5 numeric
+@attribute _ue48h6270asxtk numeric
+@attribute _48 numeric
+@attribute _mz75e500bw numeric
+@attribute _75e500bw numeric
+@attribute _incpil numeric
+@attribute _hediyeliinc numeric
+@attribute _optimuml3kva numeric
+@attribute _tsg132ci numeric
+@attribute _ts numeric
+@attribute _g132ci numeric
+@attribute _marumi numeric
+@attribute _52 numeric
+@attribute _low numeric
+@attribute _uv numeric
+@attribute _pak numeric
+@attribute _rcnse200kkn1 numeric
+@attribute _n200 numeric
+@attribute _atx numeric
+@attribute _rc numeric
+@attribute _nse numeric
+@attribute _200 numeric
+@attribute _kkn1 numeric
+@attribute _hama numeric
+@attribute _voyager numeric
+@attribute _cmfmini316gb numeric
+@attribute _cmfmini3 numeric
+@attribute _lc37 numeric
+@attribute _harddisk numeric
+@attribute _fkw98qu numeric
+@attribute _fk numeric
+@attribute _w98qu numeric
+@attribute _51 numeric
+@attribute _kanal numeric
+@attribute _500w numeric
+@attribute _bluray numeric
+@attribute _mkv numeric
+@attribute _blu numeric
+@attribute _ray numeric
+@attribute _rpac52 numeric
+@attribute _300mbps433mbps numeric
+@attribute _range numeric
+@attribute _extender numeric
+@attribute _rp numeric
+@attribute _ac52 numeric
+@attribute _433mbps numeric
+@attribute _dualbant numeric
+@attribute _mini3 numeric
+@attribute _keyring numeric
+@attribute _size numeric
+@attribute _formats numeric
+@attribute _plug numeric
+@attribute _play numeric
+@attribute _key numeric
+@attribute _ring numeric
+@attribute _icm numeric
+@attribute _15250 numeric
+@attribute _140 numeric
+@attribute _antenli numeric
+@attribute _basa numeric
+@attribute _gecmeli numeric
+@attribute _m023 numeric
+@attribute _md10btm numeric
+@attribute _kart+fm numeric
+@attribute _10bt numeric
+@attribute _torrent numeric
+@attribute _bulut numeric
+@attribute _vpn numeric
+@attribute _ewan numeric
+@attribute _dlna numeric
+@attribute _fotokopiwifi numeric
+@attribute _nwz numeric
+@attribute _b173b numeric
+@attribute _powercolor numeric
+@attribute _hd6790 numeric
+@attribute _1gb numeric
+@attribute _256bit numeric
+@attribute _radeon numeric
+@attribute _dx11 numeric
+@attribute _ax6790 numeric
+@attribute _1gbd5dh numeric
+@attribute _sluh30 numeric
+@attribute _dan numeric
+@attribute _ya numeric
+@attribute _donusturucu numeric
+@attribute _uh30 numeric
+@attribute _dx12 numeric
+@attribute _nvidia numeric
+@attribute _geforce numeric
+@attribute _mf8280cw numeric
+@attribute _clpm315 numeric
+@attribute _clp315 numeric
+@attribute _6121mfp numeric
+@attribute _mp630 numeric
+@attribute _ip4600 numeric
+@attribute _sari numeric
+@attribute _cli521 numeric
+@attribute _cmy numeric
+@attribute _ayarli numeric
+@attribute _no940xl numeric
+@attribute _cp650aa numeric
+@attribute _siyah+650 numeric
+@attribute _renkli+q8008a numeric
+@attribute _60 numeric
+@attribute _kagidi numeric
+@attribute _bandi numeric
+@attribute _ip7250 numeric
+@attribute _lga775 numeric
+@attribute _kapasitesiteli numeric
+@attribute _d5460 numeric
+@attribute _c5380 numeric
+@attribute _mat numeric
+@attribute _antiglare numeric
+@attribute _anti numeric
+@attribute _glare numeric
+@attribute _sac2f numeric
+@attribute _hdmimini numeric
+@attribute _sa numeric
+@attribute _c2f numeric
+@attribute _yedek numeric
+@attribute _baslik numeric
+@attribute _5250 numeric
+@attribute _6150 numeric
+@attribute _8150 numeric
+@attribute _harici numeric
+@attribute _sabit numeric
+@attribute _hattrick numeric
+@attribute _ab100 numeric
+@attribute _roller numeric
+@attribute _okuyucu numeric
+@attribute _company numeric
+@attribute _heroes numeric
+@attribute _game numeric
+@attribute _the numeric
+@attribute _year numeric
+@attribute _3w numeric
+@attribute _poseidongtx780p3gd5 numeric
+@attribute _384bit numeric
+@attribute _6700 numeric
+@attribute _7110 numeric
+@attribute _stbn8000200 numeric
+@attribute _business numeric
+@attribute _storage numeric
+@attribute _2bay numeric
+@attribute _nas numeric
+@attribute _bay numeric
+@attribute _high numeric
+@attribute _capacity numeric
+@attribute _pages numeric
+@attribute _1900mbps numeric
+@attribute _2x3tb numeric
+@attribute _ayristirilmis numeric
+@attribute _yollu numeric
+@attribute _250 numeric
+@attribute _telkab numeric
+@attribute _ttec numeric
+@attribute _grigumus numeric
+@attribute _eth numeric
+@attribute _wir numeric
+@attribute _5ghz numeric
+@attribute _adaptoru numeric
+@attribute _pil numeric
+@attribute _1600x900 numeric
+@attribute _slx304 numeric
+@attribute _10m numeric
+@attribute _304 numeric
+@attribute _standart numeric
+@attribute _case numeric
+@attribute _ts110k numeric
+@attribute _lc970 numeric
+@attribute _mfc230c numeric
+@attribute _240c numeric
+@attribute _mfc3360c numeric
+@attribute _mfc440cn numeric
+@attribute _465cn numeric
+@attribute _970 numeric
+@attribute _mfc numeric
+@attribute _230c numeric
+@attribute _3360c numeric
+@attribute _440cn numeric
+@attribute _cn054a numeric
+@attribute _prototype numeric
+@attribute _smgtab304 numeric
+@attribute _04 numeric
+@attribute _ms numeric
+@attribute _dirt numeric
+@attribute _wwe numeric
+@attribute _stars numeric
+@attribute _3b+1 numeric
+@attribute _dpi numeric
+@attribute _wirelessn numeric
+@attribute _hm49284 numeric
+@attribute _fis numeric
+@attribute _36pin numeric
+@attribute _centronics numeric
+@attribute _49284 numeric
+@attribute _115c numeric
+@attribute _215c numeric
+@attribute _3240c numeric
+@attribute _5440cn numeric
+@attribute _1840c numeric
+@attribute _f3y02bf1m numeric
+@attribute _gold numeric
+@attribute _slx179 numeric
+@attribute _projeksiyon numeric
+@attribute _179 numeric
+@attribute _slx990 numeric
+@attribute _rj45 numeric
+@attribute _8p8c numeric
+@attribute _lik numeric
+@attribute _jack numeric
+@attribute _990 numeric
+@attribute _slx300 numeric
+@attribute _18m numeric
+@attribute _8m numeric
+@attribute _thd03805eu numeric
+@attribute _cab539 numeric
+@attribute _28awg numeric
+@attribute _cab numeric
+@attribute _539 numeric
+@attribute _52mm numeric
+@attribute _fk158qu numeric
+@attribute _158qu numeric
+@attribute _thz20002eu numeric
+@attribute _folio numeric
+@attribute _stand numeric
+@attribute _tarthd03804eu numeric
+@attribute _wifin numeric
+@attribute _300m numeric
+@attribute _adap numeric
+@attribute _makinasi numeric
+@attribute _stima numeric
+@attribute _wide numeric
+@attribute _screen numeric
+@attribute _xbox numeric
+@attribute _ult numeric
+@attribute _cli551cxl numeric
+@attribute _xl numeric
+@attribute _1000 numeric
+@attribute _tuslu numeric
+@attribute _mfc9140cdn numeric
+@attribute _9140cdn numeric
+@attribute _b42wd numeric
+@attribute _bx630fw numeric
+@attribute _sx620fw numeric
+@attribute _7525 numeric
+@attribute _harry numeric
+@attribute _potter numeric
+@attribute _deathly numeric
+@attribute _hallows numeric
+@attribute _part numeric
+@attribute _1500 numeric
+@attribute _lc77xlbk numeric
+@attribute _lc77xl numeric
+@attribute _hm118874 numeric
+@attribute _incdualinc numeric
+@attribute _118874 numeric
+@attribute _version numeric
+@attribute _ddr5 numeric
+@attribute _ekspres numeric
+@attribute _a36705 numeric
+@attribute _a367 numeric
+@attribute _05 numeric
+@attribute _parmak numeric
+@attribute _izi numeric
+@attribute _pwrhd67901gbd5 numeric
+@attribute _6790 numeric
+@attribute _dh numeric
+@attribute _pwr numeric
+@attribute _d5 numeric
+@attribute _class4 numeric
+@attribute _class numeric
+@attribute _52inc numeric
+@attribute _lcaehjackpk2 numeric
+@attribute _audio numeric
+@attribute _stereo numeric
+@attribute _35mm numeric
+@attribute _hm122295 numeric
+@attribute _2rca numeric
+@attribute _122295 numeric
+@attribute _korkmaz numeric
+@attribute _a409 numeric
+@attribute _dynamica numeric
+@attribute _kati numeric
+@attribute _meyve numeric
+@attribute _presi numeric
+@attribute _521 numeric
+@attribute _hdmi&dvi numeric
+@attribute _atom numeric
+@attribute _z3745 numeric
+@attribute _3635mfp numeric
+@attribute _10000sayfa numeric
+@attribute _000sayfa numeric
+@attribute _47c numeric
+@attribute _sim numeric
+@attribute _sistemleri numeric
+@attribute _mh61 numeric
+@attribute _enel5 numeric
+@attribute _batarya numeric
+@attribute _mh numeric
+@attribute _61 numeric
+@attribute _en numeric
+@attribute _el5 numeric
+@attribute _mf numeric
+@attribute _6140dn numeric
+@attribute _75w numeric
+@attribute _snow numeric
+@attribute _system numeric
+@attribute _165 numeric
+@attribute _r03l4b numeric
+@attribute _97 numeric
+@attribute _longlife numeric
+@attribute _ince numeric
+@attribute _aaa numeric
+@attribute _lu numeric
+@attribute _kalem numeric
+@attribute _epbr380bbegww numeric
+@attribute _gear2 numeric
+@attribute _ep numeric
+@attribute _br380bbegww numeric
+@attribute _tiglon numeric
+@attribute _assassin numeric
+@attribute _creed numeric
+@attribute _fspnb65 numeric
+@attribute _dlc2416 numeric
+@attribute _micro+mini numeric
+@attribute _lcaehusyipbk2 numeric
+@attribute _lightning numeric
+@attribute _mp2386jpaip5whti numeric
+@attribute _iphone5 numeric
+@attribute _incairinc numeric
+@attribute _1700 numeric
+@attribute _mah numeric
+@attribute _2386 numeric
+@attribute _jpa numeric
+@attribute _ip5 numeric
+@attribute _wht numeric
+@attribute _1s numeric
+@attribute _navking numeric
+@attribute _w50m numeric
+@attribute _navigasyon numeric
+@attribute _cn623a numeric
+@attribute _koruma numeric
+@attribute _101 numeric
+@attribute _mars numeric
+@attribute _850w numeric
+@attribute _aluminyum numeric
+@attribute _hizli numeric
+@attribute _gonderi numeric
+@attribute _mod numeric
+@attribute _wrl numeric
+@attribute _airtes numeric
+@attribute _1600mbps numeric
+@attribute _coolermast numeric
+@attribute _km240 numeric
+@attribute _km numeric
+@attribute _asgard numeric
+@attribute _pure numeric
+@attribute _midt numeric
+@attribute _slx35a numeric
+@attribute _35 numeric
+@attribute _35a numeric
+@attribute _dscw800s numeric
+@attribute _2500 numeric
+@attribute _beyaz920005798 numeric
+@attribute _beyaz920 numeric
+@attribute _005798 numeric
+@attribute _c4906a numeric
+@attribute _shl300000 numeric
+@attribute _syh numeric
+@attribute _iphone16gb6pgry numeric
+@attribute _gps numeric
+@attribute _4g numeric
+@attribute _6p numeric
+@attribute _gry numeric
+@attribute _klavye+ numeric
+@attribute _cli521cmy numeric
+@attribute _multipack numeric
+@attribute _521cmy numeric
+@attribute _minisd numeric
+@attribute _tflash numeric
+@attribute _gb75 numeric
+@attribute _4540b001 numeric
+@attribute _multifunction numeric
+@attribute _no933xl numeric
+@attribute _6100 numeric
+@attribute _6600 numeric
+@attribute _203v5lsb2662 numeric
+@attribute _krt numeric
+@attribute _bp numeric
+@attribute _maks numeric
+@attribute _veri numeric
+@attribute _license numeric
+@attribute _sennheiser numeric
+@attribute _momentum numeric
+@attribute _onear numeric
+@attribute _fil numeric
+@attribute _ear numeric
+@attribute _dcp135c numeric
+@attribute _150c numeric
+@attribute _mfc235c numeric
+@attribute _260c300 numeric
+@attribute _dcp numeric
+@attribute _135c numeric
+@attribute _235c numeric
+@attribute _260c numeric
+@attribute _sn50 numeric
+@attribute _kulaklikli numeric
+@attribute _mikrofon numeric
+@attribute _50 numeric
+@attribute _cl numeric
+@attribute _lcaehusyippk2 numeric
+@attribute _aio numeric
+@attribute _yaztarfot numeric
+@attribute _adv numeric
+@attribute _cw9060009 numeric
+@attribute _mj721w numeric
+@attribute _kblsz numeric
+@attribute _dilimli numeric
+@attribute _mou numeric
+@attribute _d2302 numeric
+@attribute _ithalat numeric
+@attribute _42 numeric
+@attribute _107 numeric
+@attribute _urun numeric
+@attribute _gbitadsl2 numeric
+@attribute _glan16x numeric
+@attribute _dimm numeric
+@attribute _1150p numeric
+@attribute _ddr42666mhz numeric
+@attribute _16161636 numeric
+@attribute _smgtab301 numeric
+@attribute _01 numeric
+@attribute _alicis numeric
+@attribute _md10bt numeric
+@attribute _cccae37bsu51 numeric
+@attribute _12cm numeric
+@attribute _ccc numeric
+@attribute _ae37bs numeric
+@attribute _u51 numeric
+@attribute _fm2 numeric
+@attribute _940 numeric
+@attribute _939 numeric
+@attribute _754 numeric
+@attribute _lga numeric
+@attribute _tec numeric
+@attribute _25lik numeric
+@attribute _rj numeric
+@attribute _45 numeric
+@attribute _mmofps numeric
+@attribute _106 numeric
+@attribute _700hz numeric
+@attribute _+2 numeric
+@attribute _box numeric
+@attribute _190ghz numeric
+@attribute _90ghz numeric
+@attribute _186 numeric
+@attribute _ips numeric
+@attribute _blt numeric
+@attribute _86 numeric
+@attribute _modeli numeric
+@attribute _yaza4 numeric
+@attribute _aksiyon numeric
+@attribute _rpg numeric
+@attribute _775115513662011 numeric
+@attribute _am2am3fm1 numeric
+@attribute _bakir numeric
+@attribute _heat numeric
+@attribute _pipe numeric
+@attribute _rdh414 numeric
+@attribute _10cm numeric
+@attribute _basmid2tiz numeric
+@attribute _bas numeric
+@attribute _mid numeric
+@attribute _2tiz numeric
+@attribute _rdh654p numeric
+@attribute _pcie numeric
+@attribute _katlanabilir numeric
+@attribute _cn623ae numeric
+@attribute _macenta numeric
+@attribute _c13t26364020 numeric
+@attribute _m26xlexp numeric
+@attribute _xp600 numeric
+@attribute _700 numeric
+@attribute _800 numeric
+@attribute _41 numeric
+@attribute _mlxl numeric
+@attribute _26xl numeric
+@attribute _exp numeric
+@attribute _xp numeric
+@attribute _600 numeric
+@attribute _ml numeric
+@attribute _assassins numeric
+@attribute _1024 numeric
+@attribute _ml57205790 numeric
+@attribute _12mp numeric
+@attribute _47 numeric
+@attribute _paralel numeric
+@attribute _s+v+gl+sata3+usb30 numeric
+@attribute _s+v+gl+sata3+usb3 numeric
+@attribute _glan numeric
+@attribute _acik numeric
+@attribute _alan numeric
+@attribute _80211b numeric
+@attribute _11b numeric
+@attribute _600+1300mbps numeric
+@attribute _gbit numeric
+@attribute _wan numeric
+@attribute _kablosuzethernetusb numeric
+@attribute _ttnet numeric
+@attribute _firewall numeric
+@attribute _bittorent numeric
+@attribute _destegi numeric
+@attribute _kablosuz+usb numeric
+@attribute _207mp numeric
+@attribute _7mp numeric
+@attribute _external numeric
+@attribute _4500 numeric
+@attribute _80211n numeric
+@attribute _mp260 numeric
+@attribute _540 numeric
+@attribute _ip4700 numeric
+@attribute _moduler numeric
+@attribute _aktif numeric
+@attribute _pfc numeric
+@attribute _analog numeric
+@attribute _lacivert numeric
+@attribute _lbp7100c numeric
+@attribute _7110c numeric
+@attribute _kesintisiz numeric
+@attribute _trk numeric
+@attribute _multimedia numeric
+@attribute _optic numeric
+@attribute _sbsa120 numeric
+@attribute _uc numeric
+@attribute _goruntu numeric
+@attribute _metre numeric
+@attribute _notebooknetbook numeric
+@attribute _netbook numeric
+@attribute _50inc numeric
+@attribute _nav numeric
+@attribute _w50 numeric
+@attribute _1x8gb numeric
+@attribute _ddr31600mhz numeric
+@attribute _99924 numeric
+@attribute _okuyucusu numeric
+@attribute _casio numeric
+@attribute _dj220dwdh numeric
+@attribute _cn numeric
+@attribute _desk numeric
+@attribute _type numeric
+@attribute _kahverengi numeric
+@attribute _read555mb numeric
+@attribute _write525mb numeric
+@attribute _bracket numeric
+@attribute _read numeric
+@attribute _write numeric
+@attribute _x99 numeric
+@attribute _classified numeric
+@attribute _2011v3 numeric
+@attribute _3000mhz numeric
+@attribute _dk1521030co numeric
+@attribute _cat5 numeric
+@attribute _cross numeric
+@attribute _1521 numeric
+@attribute _030 numeric
+@attribute _co numeric
+@attribute _dk1511100 numeric
+@attribute _patch numeric
+@attribute _1511 numeric
+@attribute _learn numeric
+@attribute _speak numeric
+@attribute _german numeric
+@attribute _deluxe numeric
+@attribute _lc47c4977766627962 numeric
+@attribute _4977766627962 numeric
+@attribute _7610 numeric
+@attribute _8600 numeric
+@attribute _7250 numeric
+@attribute _6350 numeric
+@attribute _5450 numeric
+@attribute _mx925 numeric
+@attribute _caykahve numeric
+@attribute _elektrikli numeric
+@attribute _basbantli numeric
+@attribute _cb324e numeric
+@attribute _wfn150 numeric
+@attribute _wf numeric
+@attribute _printer numeric
+@attribute _4bay numeric
+@attribute _nexvg30eh numeric
+@attribute _vg30eh numeric
+@attribute _65inc numeric
+@attribute _164cm numeric
+@attribute _1300 numeric
+@attribute _hz numeric
+@attribute _profesyonel numeric
+@attribute _750g numeric
+@attribute _116 numeric
+@attribute _2600 numeric
+@attribute _ml5790 numeric
+@attribute _mbsn numeric
+@attribute _mb numeric
+@attribute _mfc3240c numeric
+@attribute _mfc620cn numeric
+@attribute _mfc820cn numeric
+@attribute _620cn numeric
+@attribute _820cn numeric
+@attribute _mfc260c numeric
+@attribute _dcp150c numeric
+@attribute _2x4tb numeric
+@attribute _mfjj6710dw numeric
+@attribute _2400 numeric
+@attribute _mfj numeric
+@attribute _j6710dw numeric
+@attribute _800hz numeric
+@attribute _mfcj6510dw numeric
+@attribute _mfcj6910dw numeric
+@attribute _verimli numeric
+@attribute _j6510dw numeric
+@attribute _j6910dw numeric
+@attribute _4w numeric
+@attribute _5ddr3 numeric
+@attribute _bx525wd numeric
+@attribute _bx625fwd numeric
+@attribute _photosmart numeric
+@attribute _b8550 numeric
+@attribute _8250 numeric
+@attribute _3110 numeric
+@attribute _3210 numeric
+@attribute _3310 numeric
+@attribute _aksaray numeric
+@attribute _iletisim numeric
+@attribute class {class-48,class-87,class-156,class-182,class-178,class-93,class-112,class-9,class-223,class-67,class-38,class-211,class-249,class-53,class-33,class-225,class-191,class-21,class-120,class-260,class-204,class-186,class-25,class-179,class-107,class-266,class-145,class-236,class-76,class-165,class-63,class-242,class-116,class-269,class-203,class-273,class-81,class-212,class-32,class-31,class-183,class-152,class-128,class-232,class-130,class-149,class-69,class-40,class-246,class-28,class-133,class-29,class-272,class-95,class-251,class-18,class-218,class-70,class-72,class-282,class-263,class-8,class-142,class-244,class-101,class-62,class-160,class-20,class-16,class-105,class-137,class-168,class-127,class-118,class-64,class-80,class-181,class-161,class-198,class-51,class-15,class-200,class-227,class-5,class-228,class-197,class-19,class-250,class-162,class-207,class-158,class-126,class-233,class-36,class-61,class-213,class-84,class-220,class-75,class-4,class-117,class-60,class-78,class-124,class-248,class-171,class-262,class-94,class-123,class-226,class-23,class-141,class-172,class-14,class-129,class-34,class-111,class-224,class-10,class-1,class-222,class-187,class-146,class-42,class-132,class-214,class-155,class-268,class-97,class-55,class-54,class-221,class-79,class-278,class-115,class-163,class-114,class-205,class-58,class-134,class-215,class-100,class-56,class-167,class-201,class-88,class-176,class-234,class-184,class-231,class-144,class-216,class-138,class-274,class-254,class-280,class-148,class-177,class-90,class-98,class-229,class-180,class-265,class-259,class-245,class-68,class-230,class-125,class-59,class-22,class-281,class-255,class-164,class-83,class-206,class-104,class-258,class-77,class-261,class-7,class-243,class-41,class-175,class-190,class-57,class-108,class-157,class-49,class-170,class-192,class-154,class-24,class-271,class-39,class-96,class-102,class-267,class-208,class-276,class-202,class-86,class-241,class-277,class-109,class-275,class-185,class-110,class-150,class-219,class-143,class-188,class-194,class-238,class-253,class-256,class-270,class-166,class-50,class-239,class-159,class-74,class-44,class-235,class-169,class-121,class-174,class-279,class-195,class-113,class-92,class-66,class-196}
+
+@DATA
+
+
+{0 1,1 1,2 1,3 1,4 1,5 1,2013 class-48}
+{6 1,7 1,8 1,9 1,10 1,11 1,2013 class-87}
+{8 1,12 1,13 1,14 1,15 1,16 1,17 1,18 1,2013 class-156}
+{8 1,13 1,15 1,16 1,17 1,18 1,19 1,20 1,2013 class-156}
+{20 1,21 1,22 1,23 1,24 1,25 1,26 1,27 1,28 1,29 1,30 1,31 1,32 1,33 1,2013 class-182}
+{34 1,35 1,36 1,37 1,38 1,39 1,40 1,2013 class-178}
+{4 1,5 1,41 1,42 1,43 1,2013 class-93}
+{34 1,35 1,36 1,37 1,38 1,40 1,44 1,2013 class-178}
+{6 1,45 1,46 1,47 1,48 1,49 1,50 1,51 1,52 1,2013 class-112}
+{4 1,5 1,6 1,53 1,54 1,55 1,2013 class-9}
+{56 1,57 1,58 1,59 1,60 1,61 1,62 1,63 1,64 1,65 1,66 1,67 1,68 1,69 1,70 1,71 1,72 1,73 1,2013 class-223}
+{0 1,1 1,2 1,3 1,74 1,75 1,76 1,77 1,78 1,79 1,2013 class-48}
+{48 2,80 1,81 1,82 1,83 1,84 1,85 1,86 1,87 1,88 1,89 1,90 1,91 1,92 1,93 1,94 1,95 1,96 1,2013 class-67}
+{20 1,41 1,42 1,97 1,98 1,99 1,100 1,101 1,2013 class-38}
+{6 1,20 1,54 1,55 1,99 1,100 1,101 1,102 1,2013 class-9}
+{6 1,8 1,10 1,103 1,104 1,105 1,106 1,107 1,108 1,109 1,2013 class-211}
+{20 1,41 1,110 1,111 1,112 1,113 1,114 1,2013 class-249}
+{2 1,27 1,115 1,116 1,117 1,118 1,119 1,120 1,2013 class-53}
+{121 1,122 1,123 1,124 1,125 1,126 1,127 1,128 1,129 1,2013 class-33}
+{8 1,12 1,15 1,16 1,18 1,19 1,2013 class-156}
+{130 1,131 1,132 1,133 1,134 1,135 1,136 1,137 1,138 1,139 1,2013 class-225}
+{36 1,37 1,38 1,39 1,40 1,140 1,141 1,2013 class-178}
+{31 1,142 1,143 1,144 1,145 1,146 1,147 1,148 1,149 1,150 1,151 1,2013 class-191}
+{152 1,153 1,154 1,155 1,2013 class-21}
+{156 1,157 1,158 1,159 1,160 1,161 1,2013 class-120}
+{13 1,162 1,163 1,164 1,165 1,166 1,167 1,168 1,169 1,170 1,171 1,2013 class-260}
+{6 1,7 1,8 1,26 1,106 1,107 1,108 1,172 1,173 1,174 1,175 1,2013 class-87}
+{145 1,176 1,177 1,178 1,179 1,180 1,181 1,182 1,2013 class-204}
+{14 1,48 1,50 1,51 1,52 1,54 1,112 2,183 1,184 1,185 1,186 1,187 1,188 1,189 1,190 1,191 1,192 1,2013 class-112}
+{33 1,112 2,190 1,191 1,193 1,194 1,195 1,196 1,197 1,2013 class-186}
+{144 1,156 1,158 1,161 1,198 1,199 1,200 1,201 1,202 1,203 1,204 1,205 1,206 1,207 1,208 1,209 1,210 1,211 1,212 1,2013 class-120}
+{20 1,213 1,214 1,215 1,216 1,217 1,218 1,219 1,2013 class-25}
+{20 1,220 1,221 1,222 1,223 1,224 1,225 1,226 1,227 1,228 1,229 1,2013 class-179}
+{4 1,5 1,6 1,48 1,54 1,55 1,230 1,2013 class-9}
+{27 1,115 1,117 1,118 1,119 1,120 1,145 1,231 1,232 1,233 1,234 1,2013 class-53}
+{91 1,99 1,117 1,235 1,236 1,237 1,238 1,239 1,240 1,241 1,2013 class-107}
+{52 1,242 1,243 1,244 1,2013 class-266}
+{12 1,40 1,245 1,246 2,247 1,248 1,249 1,250 1,251 1,2013 class-145}
+{252 1,253 1,254 1,255 1,256 1,2013 class-236}
+{179 1,257 1,258 1,259 1,260 1,261 1,262 1,263 1,264 1,265 1,266 1,267 1,268 1,2013 class-76}
+{8 1,26 1,269 1,270 1,271 1,272 1,273 1,274 1,275 1,2013 class-165}
+{276 1,277 1,278 1,279 1,280 1,281 1,282 1,283 1,284 1,2013 class-63}
+{13 1,27 1,169 1,170 1,285 1,286 1,287 1,288 1,289 1,290 1,2013 class-242}
+{1 1,2 1,112 1,188 1,195 1,291 1,292 1,293 1,294 1,295 1,296 1,2013 class-48}
+{13 1,47 1,167 1,168 1,169 1,170 1,285 1,286 1,288 1,289 1,297 1,298 1,299 1,2013 class-242}
+{14 1,201 1,272 1,300 1,301 1,302 1,303 1,304 1,305 1,306 1,2013 class-116}
+{20 1,145 1,307 1,308 1,309 1,310 1,311 1,2013 class-269}
+{312 1,313 1,314 1,315 1,316 1,317 1,318 1,2013 class-203}
+{3 1,319 1,320 1,321 1,322 1,323 1,324 1,325 1,326 1,327 1,328 1,329 1,330 1,2013 class-273}
+{13 1,78 1,162 1,163 1,164 1,166 1,168 1,169 1,170 1,289 1,331 1,2013 class-260}
+{100 2,303 1,332 1,333 1,334 1,335 1,2013 class-81}
+{13 1,26 1,167 1,168 1,169 1,170 1,188 1,286 1,287 1,288 1,289 1,290 1,336 1,337 1,338 1,339 1,340 1,341 1,342 1,2013 class-242}
+{13 1,27 1,78 1,91 1,117 1,163 1,164 1,166 1,167 1,289 1,297 1,331 1,343 1,2013 class-260}
+{344 1,345 1,346 1,347 1,348 1,349 1,350 1,2013 class-212}
+{20 1,100 1,351 1,352 1,353 1,354 1,355 1,2013 class-32}
+{8 1,12 1,14 1,16 1,17 1,20 1,356 1,357 1,358 1,359 1,2013 class-31}
+{3 1,6 1,45 1,47 1,48 1,49 1,50 1,51 1,52 1,183 1,2013 class-112}
+{360 1,361 1,362 1,363 2,364 1,365 1,366 1,367 1,2013 class-183}
+{6 1,8 1,10 1,78 1,106 1,107 1,108 1,119 1,194 1,195 1,368 1,369 1,370 1,371 1,372 1,373 1,374 1,375 1,376 1,2013 class-152}
+{377 1,378 1,379 2,380 1,381 1,382 1,2013 class-128}
+{377 1,383 1,2013 class-232}
+{117 1,145 1,306 1,384 1,385 1,386 1,387 1,388 1,389 1,390 1,391 1,2013 class-130}
+{13 2,26 1,27 1,78 1,162 1,164 2,166 2,169 1,170 1,297 1,331 1,338 1,340 1,392 1,2013 class-260}
+{13 1,26 1,27 1,78 1,169 1,170 1,285 1,288 1,297 1,331 1,338 1,339 1,340 1,393 1,394 1,395 1,396 1,2013 class-149}
+{6 1,306 1,387 1,397 1,398 1,399 1,400 1,401 1,402 1,403 1,404 1,405 1,406 1,407 1,2013 class-69}
+{6 1,8 1,10 1,103 1,106 1,107 1,108 1,109 1,340 1,408 1,409 1,410 1,2013 class-211}
+{8 1,12 1,17 1,18 1,20 1,356 1,357 1,411 1,2013 class-31}
+{8 1,12 1,13 1,17 1,18 1,19 1,20 1,412 1,2013 class-156}
+{6 1,14 1,45 1,48 1,49 2,50 1,51 1,52 1,54 1,183 1,190 1,191 1,377 2,413 1,414 1,2013 class-112}
+{48 1,238 1,239 1,240 1,241 1,415 1,2013 class-107}
+{416 1,417 1,418 1,419 1,420 1,421 1,422 1,2013 class-40}
+{33 1,112 1,258 1,372 1,423 1,424 1,425 1,426 1,427 1,428 1,429 1,430 1,431 1,2013 class-246}
+{31 1,142 1,143 1,144 1,145 1,148 1,149 1,150 1,151 1,432 1,433 1,2013 class-191}
+{12 1,16 1,18 1,20 1,434 1,435 1,436 1,2013 class-31}
+{4 1,5 1,41 1,42 1,43 1,437 1,2013 class-93}
+{6 1,7 1,8 1,10 1,11 1,91 1,106 1,107 2,108 1,117 1,174 1,438 1,439 1,440 2,2013 class-87}
+{25 1,108 1,441 1,442 1,443 1,444 1,445 1,446 1,447 1,448 1,449 1,450 1,2013 class-28}
+{222 1,225 1,451 1,452 1,453 1,454 1,455 1,456 1,2013 class-133}
+{112 1,208 1,293 1,457 2,458 1,459 1,460 1,461 1,462 1,463 1,464 1,2013 class-29}
+{6 1,8 1,13 1,17 1,18 1,20 1,412 1,465 1,2013 class-272}
+{2 1,20 1,145 1,201 1,300 1,306 1,386 1,466 1,467 1,2013 class-116}
+{20 1,57 1,113 1,294 1,468 1,469 1,470 1,471 1,472 1,473 1,2013 class-249}
+{3 1,142 1,326 1,328 1,329 1,474 1,475 1,476 1,477 1,478 1,2013 class-95}
+{3 1,244 1,289 1,479 1,480 1,481 1,482 1,483 1,484 1,485 1,486 1,487 1,488 1,489 1,490 1,491 1,492 1,2013 class-251}
+{493 1,494 1,495 1,496 2,497 1,498 1,499 1,500 1,501 1,2013 class-18}
+{8 1,14 1,16 1,17 1,20 1,356 1,357 1,435 1,502 1,2013 class-31}
+{49 1,196 1,503 1,504 1,505 1,506 1,507 1,2013 class-186}
+{170 1,333 1,508 1,509 1,510 1,511 1,2013 class-218}
+{34 2,35 1,36 1,37 1,38 1,39 1,40 1,512 1,2013 class-178}
+{8 1,91 1,107 1,108 1,117 1,119 1,372 1,430 1,431 1,513 1,514 1,515 1,2013 class-70}
+{66 1,180 1,283 1,516 1,517 1,518 1,519 1,520 1,521 1,522 1,2013 class-72}
+{145 1,213 1,399 1,523 1,524 1,525 1,526 1,527 1,528 1,529 1,530 1,531 1,2013 class-282}
+{4 1,5 1,41 1,42 1,43 1,437 1,2013 class-93}
+{532 1,533 1,534 1,535 1,536 1,537 1,2013 class-263}
+{273 1,274 1,354 1,450 1,538 1,539 1,540 1,541 1,542 1,2013 class-8}
+{179 1,265 1,543 1,544 1,545 1,546 1,547 1,548 1,549 1,550 1,551 1,552 1,553 1,2013 class-142}
+{6 1,7 1,8 1,106 1,107 1,108 1,117 1,119 1,172 1,174 1,372 1,515 1,554 1,555 1,556 1,2013 class-87}
+{179 1,418 1,494 1,536 1,557 1,558 1,559 1,560 1,2013 class-244}
+{26 2,273 1,274 1,539 1,542 2,561 1,562 1,563 1,2013 class-101}
+{379 1,564 1,565 1,566 1,567 1,2013 class-62}
+{6 1,325 1,568 1,569 1,570 1,571 1,2013 class-160}
+{144 1,201 1,372 1,430 1,431 1,457 1,458 1,459 1,462 1,572 1,573 1,574 1,575 1,576 1,2013 class-29}
+{1 1,2 1,3 1,4 1,5 1,75 1,76 1,577 1,578 1,579 1,2013 class-48}
+{580 1,581 1,582 1,583 1,584 1,585 1,586 1,587 1,588 1,2013 class-20}
+{95 1,315 1,316 1,317 1,589 1,590 1,591 1,592 1,593 1,594 1,595 1,596 1,597 1,598 1,599 1,600 1,601 1,602 1,603 1,604 1,605 1,606 1,607 1,2013 class-16}
+{493 1,497 1,498 1,500 1,608 1,609 1,610 1,2013 class-18}
+{611 1,612 1,613 1,614 1,2013 class-105}
+{179 1,221 1,224 1,225 1,227 1,228 1,229 1,2013 class-179}
+{162 1,244 1,615 1,616 1,617 1,618 1,619 1,620 1,621 1,622 1,623 1,624 1,625 1,626 1,627 1,2013 class-137}
+{112 1,628 1,629 1,630 1,631 1,2013 class-168}
+{170 1,632 1,633 1,634 1,635 1,2013 class-127}
+{6 2,512 1,636 1,637 1,638 1,639 1,640 1,641 1,642 1,2013 class-118}
+{20 1,220 1,221 1,224 1,226 1,227 1,228 1,229 1,643 1,644 1,2013 class-179}
+{344 1,348 1,349 1,350 1,645 1,646 1,2013 class-212}
+{457 1,647 1,648 1,649 1,650 1,651 1,652 1,653 1,654 1,655 1,656 1,657 1,658 1,2013 class-64}
+{145 1,179 1,258 1,266 1,659 1,660 1,661 1,2013 class-80}
+{457 1,647 1,648 1,649 1,650 1,656 1,657 1,658 1,662 2,2013 class-64}
+{145 2,222 1,663 1,664 1,665 1,666 1,667 1,2013 class-181}
+{20 1,80 1,81 1,82 1,85 1,86 1,89 1,91 1,92 1,93 1,95 1,668 1,669 1,670 1,671 1,2013 class-67}
+{179 1,220 1,221 1,224 1,225 1,226 1,2013 class-179}
+{49 1,244 1,672 1,673 1,674 1,2013 class-161}
+{20 1,145 1,307 1,308 1,310 1,311 1,675 1,2013 class-269}
+{64 1,206 1,207 1,676 1,677 1,678 1,679 1,680 1,2013 class-198}
+{48 1,279 1,681 1,682 1,683 1,684 1,685 1,686 1,687 1,2013 class-51}
+{444 1,688 1,689 1,690 1,691 1,692 1,2013 class-15}
+{13 1,162 1,163 1,164 1,165 1,166 1,167 1,171 1,693 1,2013 class-260}
+{41 1,110 1,111 1,112 1,113 1,471 1,694 1,695 1,2013 class-249}
+{27 1,28 1,29 1,41 1,169 1,170 1,696 1,697 1,698 1,2013 class-200}
+{2 1,27 1,116 1,117 1,118 1,119 1,120 1,2013 class-53}
+{156 1,158 1,161 1,198 1,2013 class-120}
+{220 1,344 1,345 1,348 1,349 1,350 1,530 1,531 1,699 1,2013 class-212}
+{365 1,366 1,700 1,701 1,2013 class-227}
+{702 1,703 1,704 1,705 1,706 1,707 1,2013 class-5}
+{6 1,47 1,48 1,49 1,51 1,52 1,54 1,183 1,372 1,377 1,2013 class-112}
+{80 1,112 1,144 1,487 1,708 1,709 1,710 1,711 1,712 1,713 1,714 1,2013 class-228}
+{2 1,91 1,115 1,116 1,117 1,118 1,119 1,458 1,715 1,2013 class-53}
+{145 1,177 1,178 1,179 1,180 1,257 1,258 1,291 1,661 1,716 1,2013 class-80}
+{80 1,112 1,305 1,404 1,717 1,718 1,719 1,720 1,721 1,722 1,723 1,724 1,725 1,2013 class-197}
+{34 1,35 1,36 1,37 1,38 1,40 1,44 1,726 1,727 1,728 1,2013 class-178}
+{25 1,33 1,41 1,729 1,730 1,731 1,732 1,733 1,734 1,735 1,736 1,737 1,738 1,739 1,740 1,2013 class-19}
+{57 1,62 1,64 1,329 1,340 1,741 1,742 1,743 1,744 1,745 1,746 1,747 1,748 1,749 1,750 1,2013 class-250}
+{41 1,42 1,43 1,79 1,437 1,512 1,751 1,2013 class-93}
+{0 1,1 1,2 1,3 1,2013 class-48}
+{4 1,5 1,41 1,42 1,43 1,48 1,2013 class-93}
+{752 1,753 1,754 1,755 1,2013 class-162}
+{117 1,170 1,217 1,355 1,756 1,757 1,758 1,759 1,760 1,761 1,762 1,763 1,764 1,2013 class-207}
+{145 1,179 1,180 1,257 1,258 1,266 1,659 1,661 1,2013 class-80}
+{36 1,170 1,765 1,766 1,767 1,768 1,769 1,2013 class-158}
+{14 1,80 1,305 1,387 1,404 1,717 1,718 1,722 1,723 1,724 1,725 1,770 1,771 1,772 1,773 1,774 1,775 1,2013 class-197}
+{20 1,213 1,214 1,215 1,218 1,219 1,776 1,777 1,2013 class-25}
+{611 1,612 1,614 1,778 1,779 1,2013 class-105}
+{41 1,42 1,43 1,48 1,99 1,100 1,2013 class-93}
+{20 1,33 1,144 1,191 1,193 1,196 1,197 1,372 1,503 1,600 1,780 1,781 1,782 1,783 1,784 1,785 1,786 1,2013 class-186}
+{416 1,417 1,418 1,419 1,420 1,421 1,422 1,580 1,787 1,788 1,2013 class-40}
+{27 1,29 1,41 1,169 1,170 1,697 1,789 1,2013 class-200}
+{699 1,709 1,790 1,791 1,792 1,793 1,794 1,795 1,2013 class-126}
+{162 1,617 2,626 1,796 1,797 1,798 1,2013 class-233}
+{162 1,244 1,615 1,617 2,626 1,627 1,2013 class-137}
+{112 2,207 1,212 1,564 1,799 1,800 1,801 1,802 1,803 1,804 1,805 1,806 1,807 2,808 1,2013 class-36}
+{276 1,279 1,282 1,283 1,809 1,810 1,811 1,812 1,813 1,2013 class-61}
+{179 1,263 1,503 1,550 1,814 1,815 1,816 1,817 1,818 1,819 1,820 1,2013 class-213}
+{179 1,225 1,451 1,453 1,454 1,455 1,456 1,821 1,2013 class-133}
+{4 1,5 1,41 1,42 1,43 1,48 1,822 1,2013 class-93}
+{4 1,5 1,41 1,42 1,43 1,437 1,2013 class-93}
+{8 1,12 1,13 1,14 1,15 1,16 1,17 1,18 1,823 1,2013 class-156}
+{360 2,364 1,366 1,512 1,700 1,824 1,825 1,2013 class-227}
+{13 1,27 1,47 1,167 1,169 1,170 1,285 1,286 1,288 1,289 1,297 1,298 1,299 1,2013 class-242}
+{21 1,23 1,24 1,27 1,31 1,41 1,169 1,170 1,237 1,303 1,338 1,2013 class-182}
+{6 1,14 1,48 1,49 1,51 1,52 1,54 1,183 1,189 1,2013 class-112}
+{4 1,5 1,6 1,54 1,55 1,102 1,2013 class-9}
+{0 1,1 1,2 1,3 1,4 1,5 1,2013 class-48}
+{179 1,258 2,265 1,637 1,816 1,826 1,827 1,828 1,829 1,830 1,831 1,832 1,833 1,834 1,2013 class-84}
+{4 1,5 1,6 1,53 1,54 1,55 1,2013 class-9}
+{34 1,35 1,36 1,37 1,38 1,40 1,726 1,727 1,728 1,835 1,2013 class-178}
+{161 1,216 1,218 1,592 1,639 1,836 1,837 1,838 1,839 1,840 1,841 1,842 1,2013 class-220}
+{8 1,26 1,106 1,107 1,108 1,174 1,175 1,374 1,375 1,513 1,843 1,844 1,845 2,846 1,2013 class-75}
+{41 1,42 1,43 1,2013 class-93}
+{0 1,1 1,2 1,3 1,2013 class-48}
+{121 1,122 1,123 1,124 1,125 1,126 1,127 1,128 1,129 1,756 1,2013 class-33}
+{611 2,614 1,778 1,779 1,847 1,848 1,2013 class-105}
+{179 1,503 1,543 1,547 1,551 1,552 1,553 1,849 1,850 1,2013 class-142}
+{179 1,257 1,258 1,259 1,261 1,264 1,265 1,851 1,852 1,853 1,2013 class-76}
+{12 1,72 1,242 1,244 1,526 1,531 1,854 1,2013 class-266}
+{244 1,386 1,757 1,855 1,856 1,857 2,858 1,2013 class-4}
+{145 1,176 1,177 1,178 1,179 1,180 1,181 1,182 1,269 1,2013 class-204}
+{3 1,14 1,51 1,52 1,54 1,112 1,183 1,293 1,305 1,487 1,600 1,859 1,860 1,861 1,862 1,2013 class-112}
+{27 1,28 1,29 1,41 1,169 1,170 1,696 1,697 1,698 1,2013 class-200}
+{23 1,33 1,117 1,285 1,863 1,864 1,865 1,866 1,867 1,2013 class-117}
+{80 1,144 1,487 1,709 1,712 1,713 1,714 1,868 1,869 1,870 1,871 1,2013 class-228}
+{20 1,24 1,41 1,237 1,238 1,239 1,729 1,872 1,2013 class-19}
+{258 1,372 1,423 1,428 1,429 1,873 1,874 1,875 1,876 1,877 1,878 1,879 1,880 1,881 1,882 1,883 1,2013 class-246}
+{3 1,6 1,14 1,51 1,52 1,112 1,183 1,189 1,293 1,305 1,487 1,600 1,859 1,860 1,862 1,884 1,885 1,886 1,887 1,888 1,889 1,890 1,2013 class-112}
+{699 1,709 1,790 1,791 1,795 1,868 1,891 1,2013 class-126}
+{41 1,238 1,239 1,729 1,736 1,737 1,892 1,893 1,2013 class-19}
+{20 1,27 1,169 1,170 1,285 1,866 1,894 1,2013 class-117}
+{27 1,169 1,170 1,285 1,797 1,866 1,895 1,2013 class-60}
+{20 1,27 1,169 1,170 1,285 1,866 1,896 1,2013 class-78}
+{20 1,617 1,897 1,898 1,2013 class-124}
+{586 1,617 1,899 1,2013 class-248}
+{13 1,26 1,27 1,78 1,162 1,163 1,164 1,166 1,167 1,169 1,170 1,297 1,306 1,331 1,340 1,343 1,2013 class-260}
+{49 1,377 1,900 1,901 1,902 1,903 1,2013 class-171}
+{13 1,26 1,27 1,167 1,169 1,170 1,188 1,285 1,286 1,287 1,288 1,290 1,297 1,337 1,338 1,339 1,2013 class-242}
+{26 1,27 1,169 1,170 1,285 1,338 1,904 1,905 1,906 1,907 1,2013 class-262}
+{220 1,221 1,222 1,224 1,225 1,227 1,228 1,229 1,643 1,908 1,2013 class-179}
+{8 1,106 1,107 1,172 1,174 1,175 1,513 1,514 1,844 1,845 2,846 1,909 1,2013 class-70}
+{41 1,42 1,43 1,48 1,99 1,100 1,2013 class-93}
+{80 1,112 1,709 1,712 1,910 1,911 1,912 1,913 1,914 1,2013 class-94}
+{8 1,12 1,16 1,17 1,18 1,20 1,357 1,435 1,827 1,915 1,2013 class-31}
+{377 1,378 1,379 2,380 1,381 1,382 1,2013 class-128}
+{8 1,12 1,13 1,14 1,15 1,16 1,17 1,18 1,20 1,823 1,827 1,2013 class-156}
+{20 1,91 1,117 1,235 1,238 1,239 1,240 1,241 1,415 1,2013 class-107}
+{220 1,344 1,345 1,348 1,349 1,350 1,646 1,699 1,2013 class-212}
+{179 1,220 1,221 1,224 1,225 1,227 1,228 1,229 1,2013 class-179}
+{580 1,617 1,797 1,916 1,917 1,918 1,919 1,2013 class-123}
+{2 1,27 1,115 1,116 1,117 1,118 1,119 1,120 1,2013 class-53}
+{219 1,920 1,921 1,922 1,923 1,2013 class-226}
+{20 1,23 1,24 1,25 1,26 1,27 1,28 1,33 1,863 1,865 1,866 1,867 1,924 1,2013 class-117}
+{20 1,925 1,926 1,927 1,928 1,929 1,930 1,931 1,2013 class-23}
+{2 1,315 1,316 1,317 1,589 1,932 1,933 1,934 1,935 1,936 1,937 1,938 1,939 1,2013 class-141}
+{6 1,48 1,54 1,55 1,99 1,100 1,102 1,2013 class-9}
+{20 1,36 2,580 3,617 1,940 1,941 1,942 2,943 1,944 1,2013 class-172}
+{276 1,282 1,283 1,418 1,428 1,945 1,946 1,947 1,948 1,949 1,2013 class-14}
+{564 1,950 1,951 1,952 1,2013 class-129}
+{31 1,220 1,925 1,927 1,929 1,930 1,931 1,2013 class-23}
+{20 1,213 1,215 1,218 1,776 1,777 1,927 1,953 1,954 1,955 1,956 1,2013 class-25}
+{144 1,319 1,957 1,2013 class-34}
+{0 1,1 1,2 1,99 1,100 1,112 1,188 1,958 1,959 1,2013 class-48}
+{220 1,344 1,345 1,348 1,349 1,350 1,646 1,699 1,2013 class-212}
+{13 1,27 1,169 1,170 1,285 1,286 1,287 1,288 1,289 1,290 1,2013 class-242}
+{960 1,961 1,962 1,963 1,964 1,2013 class-111}
+{8 1,12 1,13 1,14 1,15 1,16 1,17 1,18 1,20 1,340 1,823 1,827 1,2013 class-156}
+{276 1,282 1,283 1,812 1,965 1,966 1,967 1,968 1,969 1,970 1,2013 class-224}
+{162 1,244 1,617 1,971 1,972 1,973 1,2013 class-10}
+{48 1,219 1,220 1,925 1,930 1,974 1,975 1,976 1,2013 class-23}
+{57 1,161 1,205 1,206 1,207 1,211 1,212 1,900 1,977 1,978 1,979 1,980 1,981 1,982 1,983 1,2013 class-1}
+{451 1,457 1,647 1,648 1,649 1,650 1,656 1,657 1,658 1,984 1,985 1,2013 class-64}
+{170 1,633 1,634 1,635 1,986 1,987 1,988 1,2013 class-127}
+{14 1,201 1,304 1,305 1,306 1,457 1,989 1,990 1,991 1,992 1,993 1,2013 class-222}
+{0 1,1 1,2 1,3 1,4 1,5 1,335 1,958 1,994 1,2013 class-48}
+{3 1,6 1,14 1,51 1,52 1,54 1,183 1,189 1,2013 class-112}
+{20 1,41 1,42 1,97 1,98 1,2013 class-38}
+{995 1,996 1,997 1,998 1,999 1,1000 1,1001 1,2013 class-187}
+{0 1,1 1,2 1,99 1,100 1,112 1,188 1,1002 1,2013 class-48}
+{112 1,142 1,188 1,328 1,329 1,475 1,476 1,477 1,478 1,569 1,1003 1,1004 1,1005 1,1006 1,2013 class-95}
+{57 1,377 1,487 1,709 1,712 1,797 1,868 1,1007 1,1008 1,1009 1,1010 1,2013 class-146}
+{6 1,54 1,169 1,170 1,448 1,1011 1,1012 1,1013 1,2013 class-42}
+{26 1,27 1,169 1,170 1,188 1,303 1,338 1,339 1,1014 1,1015 1,2013 class-132}
+{14 1,26 1,27 1,48 1,169 1,170 1,188 1,285 1,338 1,340 1,896 1,2013 class-78}
+{26 1,27 1,169 1,170 1,188 1,285 1,338 1,339 1,340 1,797 1,866 1,895 1,1016 1,2013 class-60}
+{360 1,362 1,363 2,364 1,365 1,366 1,367 1,1017 1,2013 class-183}
+{178 1,179 1,257 1,258 1,259 1,261 1,265 1,764 1,1018 1,1019 1,1020 1,2013 class-76}
+{24 1,27 1,276 1,279 1,281 1,282 1,283 1,842 1,1021 1,1022 1,2013 class-214}
+{179 1,265 1,503 1,543 1,544 1,545 1,546 1,547 1,548 1,549 1,550 1,551 1,552 1,553 1,2013 class-142}
+{26 1,27 1,31 1,41 1,169 1,170 1,338 1,339 1,340 1,697 1,1023 1,1024 1,1025 1,2013 class-200}
+{0 1,33 1,49 1,258 1,423 1,428 1,429 1,877 1,2013 class-246}
+{451 1,457 1,647 1,648 1,649 1,650 1,651 1,656 1,657 1,658 1,985 1,1026 1,2013 class-64}
+{6 1,20 1,54 1,112 1,168 1,169 1,170 1,328 1,329 1,440 1,448 1,679 1,1011 1,1012 1,1013 1,1027 1,2013 class-42}
+{57 1,156 1,161 1,203 1,211 1,316 1,1028 1,1029 1,1030 1,1031 1,1032 1,1033 1,1034 1,1035 1,1036 1,1037 1,1038 1,1039 1,1040 1,2013 class-155}
+{179 1,503 1,550 1,814 1,815 1,816 1,819 1,820 1,826 1,849 1,2013 class-213}
+{312 1,313 1,314 1,317 1,355 1,544 1,599 1,935 1,1041 1,1042 1,1043 1,2013 class-203}
+{87 1,589 1,932 1,1044 1,1045 1,1046 1,1047 1,1048 1,1049 1,2013 class-268}
+{153 1,154 1,155 1,1050 1,2013 class-21}
+{8 1,12 1,13 1,15 1,16 1,18 1,369 1,534 1,2013 class-156}
+{416 1,417 1,418 1,422 1,495 1,501 1,580 1,1051 1,1052 1,1053 1,1054 1,2013 class-40}
+{6 1,418 1,494 1,495 1,501 1,536 1,557 1,560 1,1053 1,1055 1,2013 class-244}
+{269 1,270 1,273 1,274 1,275 1,354 1,450 1,1056 1,1057 1,1058 1,2013 class-165}
+{178 1,179 1,503 1,550 1,814 1,819 1,820 1,1059 1,1060 1,2013 class-213}
+{320 1,377 1,1061 1,1062 1,2013 class-97}
+{2 1,130 1,131 1,132 1,134 1,137 1,138 1,139 1,669 1,1063 1,2013 class-225}
+{14 1,31 1,84 1,96 1,201 1,457 1,771 1,990 1,991 1,992 1,1026 1,1064 1,1065 1,2013 class-222}
+{220 1,221 1,222 1,223 1,227 1,228 1,229 1,1066 1,2013 class-179}
+{57 1,161 1,211 1,900 1,977 1,978 1,980 1,981 2,982 1,1035 1,1036 1,1040 1,1067 1,1068 1,1069 1,1070 1,1071 1,1072 1,1073 1,1074 1,2013 class-1}
+{145 1,179 1,220 1,225 1,303 1,1075 1,1076 1,1077 1,1078 1,2013 class-55}
+{244 1,617 1,1079 1,1080 1,1081 1,1082 1,2013 class-54}
+{34 1,35 1,36 1,37 1,38 1,40 1,44 1,726 1,727 1,728 1,2013 class-178}
+{12 1,52 1,245 1,246 1,247 1,1083 1,1084 1,1085 1,2013 class-145}
+{220 1,344 1,348 1,349 1,350 1,530 1,531 1,1086 1,2013 class-212}
+{37 1,329 1,503 1,842 1,1087 1,1088 1,1089 1,1090 1,2013 class-221}
+{329 1,503 1,842 1,1087 1,1089 1,1090 1,1091 1,2013 class-79}
+{0 1,49 1,112 1,258 1,372 1,377 1,423 1,425 1,428 1,429 1,430 1,431 1,2013 class-246}
+{20 1,24 1,222 1,225 1,797 1,1092 1,1093 1,1094 1,1095 1,1096 1,1097 1,2013 class-278}
+{220 1,222 1,225 1,1075 1,1076 1,1077 1,1078 1,1098 1,2013 class-55}
+{8 1,12 1,13 1,14 1,15 1,16 1,17 1,18 1,19 1,20 1,358 1,359 1,823 1,2013 class-156}
+{145 1,179 1,180 1,257 1,258 1,266 1,659 1,660 1,661 1,2013 class-80}
+{416 1,417 1,418 1,419 1,422 1,580 1,1051 1,2013 class-40}
+{6 1,8 1,13 1,14 1,17 1,18 1,20 1,465 1,823 1,1099 1,2013 class-272}
+{699 1,709 1,790 1,792 1,795 1,1100 1,1101 1,1102 1,1103 1,1104 1,1105 1,2013 class-126}
+{20 1,41 1,42 1,97 1,99 1,100 1,291 1,2013 class-38}
+{66 1,276 1,282 1,532 1,534 1,535 1,536 1,537 1,1106 1,2013 class-263}
+{178 1,257 1,259 1,264 1,265 1,268 1,549 1,710 1,807 1,2013 class-76}
+{1 1,145 2,281 1,423 1,704 1,993 1,1106 1,1107 1,1108 1,1109 1,1110 1,1111 1,1112 1,2013 class-115}
+{34 1,35 1,36 1,37 1,38 2,40 1,44 1,74 1,1113 1,2013 class-178}
+{49 1,377 1,900 1,901 1,902 1,903 1,1067 1,2013 class-171}
+{220 1,344 1,348 1,349 1,350 1,531 1,699 1,2013 class-212}
+{416 1,417 1,418 1,422 1,580 1,787 1,788 1,996 1,1114 1,1115 1,1116 1,2013 class-40}
+{14 1,84 1,96 1,201 1,304 1,305 1,457 1,946 1,949 1,989 1,990 1,991 1,992 1,1026 1,1064 1,1065 1,2013 class-222}
+{161 1,335 1,339 1,1117 1,1118 1,1119 1,1120 1,2013 class-163}
+{145 1,179 1,180 1,257 1,258 1,266 1,660 1,661 1,2013 class-80}
+{4 1,5 1,6 1,48 1,54 1,55 1,102 1,568 1,2013 class-9}
+{0 1,1 1,2 1,3 1,640 1,1121 1,1122 1,1123 1,2013 class-48}
+{3 1,4 1,5 1,41 1,42 1,43 1,48 1,437 1,1124 1,2013 class-93}
+{26 1,211 1,254 1,256 1,340 1,377 1,1125 1,1126 1,1127 1,1128 1,1129 1,1130 1,2013 class-114}
+{20 1,145 1,179 1,225 1,452 1,453 1,454 1,455 1,456 1,1095 1,1131 1,2013 class-133}
+{179 1,265 1,503 1,543 1,544 1,545 1,546 1,547 1,548 1,549 1,550 1,551 1,552 1,553 1,2013 class-142}
+{179 1,257 1,258 1,259 1,261 1,263 1,265 1,550 1,851 1,852 1,853 1,1020 1,1132 1,1133 1,2013 class-76}
+{179 1,225 1,1002 1,1075 1,1076 1,1077 1,1078 1,2013 class-55}
+{178 1,263 1,265 1,503 1,543 1,549 1,550 1,551 1,552 1,1134 1,1135 1,2013 class-142}
+{3 1,6 1,14 1,48 1,49 1,51 1,52 1,54 1,183 1,189 1,2013 class-112}
+{20 1,879 1,927 1,963 1,1136 1,2013 class-205}
+{8 1,108 1,117 1,119 1,207 1,373 1,450 1,556 1,1137 1,1138 1,1139 1,2013 class-58}
+{469 1,797 1,927 1,1140 1,1141 1,1142 1,1143 1,1144 1,1145 1,1146 1,1147 1,1148 1,2013 class-134}
+{20 1,213 1,214 1,215 1,219 1,629 1,776 1,1149 1,2013 class-25}
+{611 1,614 1,778 1,779 1,847 1,848 1,2013 class-105}
+{161 1,180 1,703 1,1150 1,1151 1,1152 1,2013 class-215}
+{220 1,221 1,222 1,224 1,225 1,227 1,228 1,229 1,643 1,908 1,2013 class-179}
+{586 1,617 1,899 1,1153 1,2013 class-248}
+{416 1,417 1,422 1,498 2,499 1,500 2,501 1,580 1,1051 1,1154 2,1155 1,2013 class-40}
+{1156 2,1157 1,1158 1,1159 1,1160 1,1161 1,2013 class-100}
+{6 1,8 1,9 1,91 1,106 1,107 1,117 1,340 1,554 1,555 1,1162 1,2013 class-87}
+{377 1,378 1,379 2,380 2,381 1,382 1,1163 1,2013 class-128}
+{377 1,1163 1,1164 1,1165 1,2013 class-56}
+{20 1,611 1,614 1,778 1,779 1,847 1,848 1,2013 class-105}
+{168 1,169 1,170 1,423 1,635 1,1119 1,1166 1,1167 1,1168 1,1169 1,1170 1,1171 1,1172 1,1173 1,1174 1,2013 class-167}
+{0 1,49 1,372 1,423 1,428 1,429 1,430 1,431 1,877 1,1175 1,2013 class-246}
+{13 1,26 1,112 1,168 1,169 1,170 1,285 1,286 1,287 1,288 1,290 1,328 1,329 1,340 1,440 1,679 1,1027 1,2013 class-242}
+{178 1,179 1,265 1,280 1,503 1,550 1,819 1,820 1,976 1,1159 1,1176 1,1177 1,1178 1,1179 1,1180 1,2013 class-213}
+{145 1,177 1,178 1,179 1,257 1,258 1,265 1,661 1,2013 class-80}
+{145 1,177 1,178 1,179 1,180 1,257 1,258 1,660 1,661 1,2013 class-80}
+{2 1,315 1,316 1,317 1,589 1,932 1,933 1,934 1,935 1,936 1,937 1,938 1,939 1,2013 class-141}
+{89 1,130 1,1181 1,1182 2,1183 1,1184 1,1185 1,1186 1,1187 1,2013 class-201}
+{58 1,161 1,318 1,363 1,556 1,589 1,932 1,1188 1,1189 1,1190 1,1191 1,1192 1,1193 1,1194 1,1195 1,1196 1,2013 class-88}
+{66 2,107 1,276 1,282 1,283 1,292 1,428 1,812 1,966 1,969 1,1106 1,1197 1,1198 1,1199 1,1200 1,1201 2,1202 1,1203 1,1204 1,2013 class-176}
+{179 1,225 1,451 1,453 1,454 1,455 1,456 1,821 1,1205 1,2013 class-133}
+{258 1,506 1,672 1,996 1,1204 1,1206 1,1207 1,1208 1,1209 1,2013 class-234}
+{0 1,203 1,1210 1,1211 1,1212 1,1213 1,2013 class-184}
+{14 2,444 1,688 1,689 1,690 1,691 1,692 1,1214 1,1215 1,1216 1,1217 1,1218 1,2013 class-15}
+{20 1,179 1,225 1,797 1,1092 1,1093 1,1095 1,1096 1,1097 1,1219 1,1220 1,2013 class-278}
+{12 1,16 1,18 1,26 1,356 1,357 1,369 1,2013 class-31}
+{639 1,923 1,1221 1,1222 1,1223 1,1224 1,1225 1,1226 1,1227 1,1228 1,1229 1,1230 1,2013 class-231}
+{20 1,617 1,1153 1,1231 1,2013 class-248}
+{33 1,49 1,144 1,196 1,315 1,377 1,503 1,504 1,507 1,1232 1,1233 1,2013 class-186}
+{340 1,884 1,1234 1,1235 1,1236 1,1237 1,1238 1,2013 class-144}
+{244 1,305 1,757 1,855 1,856 1,857 1,858 1,1239 1,2013 class-4}
+{33 1,49 1,858 1,1208 1,1240 1,1241 1,1242 1,2013 class-216}
+{346 1,562 1,1243 1,1244 1,1245 1,1246 1,2013 class-138}
+{8 1,18 1,25 1,340 1,827 1,1243 1,1247 1,2013 class-274}
+{179 1,220 1,225 1,1002 1,1075 1,1076 1,1077 1,1078 1,2013 class-55}
+{308 1,377 1,645 1,1248 1,1249 1,1250 1,2013 class-269}
+{580 1,799 1,801 1,1251 1,1252 1,2013 class-36}
+{33 1,49 1,855 1,858 1,1208 1,1240 1,1241 1,1242 1,1253 1,2013 class-216}
+{41 1,91 1,117 1,238 1,239 1,1254 1,1255 1,1256 1,1257 1,1258 1,2013 class-254}
+{112 2,161 1,206 1,293 1,316 1,339 1,501 1,764 1,900 1,901 1,902 1,903 1,1040 1,1120 1,1251 1,1259 1,2013 class-171}
+{6 1,48 1,54 1,55 1,99 1,100 1,102 1,2013 class-9}
+{6 1,49 1,52 1,54 1,335 1,377 1,855 1,858 1,1230 1,1260 1,1261 1,1262 2,1263 1,1264 1,2013 class-280}
+{244 1,423 1,458 1,1204 1,1265 1,1266 1,2013 class-148}
+{258 1,506 1,996 1,1204 1,1206 1,1207 1,1208 1,1209 1,2013 class-234}
+{6 1,8 1,10 1,106 1,107 1,108 1,194 1,195 1,368 1,376 1,1058 1,2013 class-152}
+{20 1,49 1,673 1,674 1,2013 class-161}
+{20 1,36 1,580 1,617 1,940 1,941 1,943 1,944 1,1267 1,1268 1,2013 class-172}
+{41 1,112 1,113 1,114 1,244 1,1269 1,1270 1,2013 class-177}
+{62 1,64 1,329 1,340 1,1271 1,1272 1,1273 1,1274 1,1275 1,1276 1,2013 class-90}
+{145 1,179 1,180 1,257 1,258 1,266 1,1277 1,1278 1,2013 class-80}
+{14 1,304 1,305 1,757 1,771 1,855 1,856 1,857 1,858 1,2013 class-4}
+{20 1,580 1,586 1,587 1,1279 1,1280 1,2013 class-98}
+{20 1,580 1,617 1,940 1,941 1,2013 class-172}
+{0 1,113 1,114 1,203 1,1210 1,1211 1,1212 1,1213 1,1281 1,2013 class-184}
+{20 1,879 1,927 1,963 1,1136 1,2013 class-205}
+{20 1,580 1,617 1,1279 1,1280 1,2013 class-98}
+{346 1,1159 1,1244 1,1245 1,1246 1,1282 1,1283 1,1284 1,2013 class-138}
+{222 1,225 1,797 1,1092 1,1093 1,1095 1,1096 1,1097 1,2013 class-278}
+{20 1,49 1,294 1,377 1,542 1,858 1,1248 1,1285 1,2013 class-229}
+{20 1,162 1,586 1,617 1,972 1,1286 1,1287 1,1288 1,1289 1,1290 1,1291 1,2013 class-180}
+{20 1,24 1,145 1,225 1,384 1,469 1,1292 1,1293 1,2013 class-265}
+{0 1,1 1,2 1,3 1,4 1,5 1,2013 class-48}
+{80 1,95 1,317 1,366 1,590 1,591 1,593 1,606 1,607 1,1192 1,1294 1,1295 1,1296 1,1297 1,1298 1,1299 1,2013 class-16}
+{20 2,617 1,1153 1,1231 1,1300 1,1301 1,1302 1,1303 1,2013 class-248}
+{112 1,142 1,143 1,145 1,148 1,149 1,150 1,151 1,432 1,433 1,2013 class-191}
+{587 1,617 1,897 1,1304 1,1305 1,1306 2,1307 1,1308 1,1309 1,2013 class-259}
+{14 1,145 1,306 1,384 1,385 1,387 1,388 1,389 1,390 1,391 1,771 1,857 1,1310 1,2013 class-130}
+{6 1,54 1,169 1,170 1,448 1,1011 1,1012 1,1013 1,2013 class-42}
+{145 1,222 1,257 1,291 1,659 1,665 1,716 1,2013 class-80}
+{2 1,318 1,589 1,597 1,602 1,603 1,932 1,933 1,934 1,936 1,937 1,938 1,939 1,1311 1,1312 1,1313 1,1314 1,2013 class-141}
+{312 1,313 1,314 1,318 1,597 1,602 1,603 1,1311 1,1312 1,1314 1,1315 1,1316 1,2013 class-203}
+{855 1,1171 1,1317 1,1318 1,1319 1,1320 1,1321 1,1322 1,1323 1,1324 1,2013 class-245}
+{80 1,591 1,593 1,639 1,770 1,1297 1,1325 1,2013 class-16}
+{20 1,617 1,897 1,1326 1,1327 1,1328 1,1329 1,2013 class-68}
+{8 1,130 1,770 1,935 1,1041 1,1181 1,1186 2,1187 1,1330 1,2013 class-201}
+{14 1,684 1,797 1,857 1,1310 1,1331 1,1332 1,1333 1,1334 1,2013 class-230}
+{14 1,717 1,723 1,724 1,725 1,771 1,772 1,1335 1,1336 1,1337 1,1338 1,1339 1,1340 1,2013 class-197}
+{682 1,1341 1,1342 1,1343 1,1344 1,1345 1,2013 class-125}
+{244 1,617 1,1079 1,1346 1,1347 1,1348 1,1349 1,1350 1,1351 1,1352 1,2013 class-59}
+{162 1,617 1,626 1,796 1,797 1,798 1,1308 1,1353 1,1354 1,1355 1,2013 class-233}
+{41 1,42 1,43 1,48 1,99 1,100 1,2013 class-93}
+{117 1,145 1,306 1,384 1,385 1,386 1,387 1,388 1,389 1,390 1,391 1,2013 class-130}
+{36 1,87 1,428 1,589 1,932 1,1045 1,1046 1,1048 1,1049 1,1356 2,1357 2,1358 1,1359 1,2013 class-268}
+{130 1,131 1,132 1,134 1,135 1,136 1,137 1,138 1,139 1,770 1,1360 1,1361 1,2013 class-225}
+{54 1,340 1,1130 1,1236 1,1362 1,1363 1,1364 1,2013 class-22}
+{145 1,176 1,177 1,178 1,179 1,180 1,181 1,182 1,269 1,2013 class-204}
+{20 1,41 1,57 1,113 1,114 1,1365 1,2013 class-177}
+{0 1,112 1,1210 1,1211 1,1213 1,1366 1,2013 class-184}
+{144 1,709 1,712 1,714 1,868 1,2013 class-228}
+{265 1,503 1,543 1,547 1,548 1,549 1,550 1,551 1,552 1,553 1,1144 1,1367 1,1368 1,1369 1,2013 class-142}
+{66 2,812 1,1106 1,1107 1,1370 1,1371 1,1372 1,2013 class-281}
+{8 1,106 1,107 1,108 1,117 2,119 1,340 1,369 1,373 1,374 1,513 1,515 1,556 1,843 1,1003 1,1373 1,1374 1,2013 class-75}
+{860 1,1375 1,1376 1,1377 1,1378 1,2013 class-255}
+{60 1,145 1,306 2,315 1,387 1,699 2,709 1,790 1,791 1,792 1,794 1,795 2,1103 1,1105 1,1379 1,1380 1,2013 class-126}
+{6 1,8 1,91 1,106 1,107 1,108 1,117 1,340 1,369 1,555 1,556 1,1381 1,1382 1,2013 class-87}
+{80 1,306 1,387 1,402 1,404 1,717 1,718 1,722 1,723 1,724 1,725 1,770 1,772 1,774 1,775 1,2013 class-197}
+{6 1,306 1,387 1,398 1,399 1,400 1,401 1,402 1,403 1,404 1,406 1,1034 1,1383 1,1384 1,2013 class-164}
+{222 1,225 1,797 1,1093 1,1096 1,1097 1,1385 1,1386 1,2013 class-278}
+{699 1,709 1,790 1,791 1,795 1,868 1,891 1,2013 class-126}
+{89 1,130 1,1181 1,1182 2,1183 1,1184 1,1185 1,1186 1,1187 1,2013 class-201}
+{20 1,220 1,925 1,926 1,927 1,928 1,929 1,930 1,931 1,2013 class-23}
+{313 1,314 1,315 1,316 1,317 1,318 1,2013 class-203}
+{213 1,214 1,215 1,219 1,776 1,777 1,2013 class-25}
+{418 1,419 1,420 1,494 1,560 1,2013 class-244}
+{418 1,419 1,420 1,421 1,493 1,2013 class-18}
+{179 1,258 1,291 1,559 1,661 1,705 1,716 1,831 1,2013 class-80}
+{26 1,211 1,254 1,256 1,340 1,377 1,1126 1,1127 2,1128 1,1129 1,1130 1,1387 1,2013 class-114}
+{219 1,923 1,1221 1,1388 1,1389 1,1390 1,2013 class-83}
+{14 1,684 1,797 1,857 1,1310 1,1331 1,1332 1,1333 1,2013 class-230}
+{299 1,634 1,1391 1,1392 1,1393 1,1394 1,2013 class-206}
+{257 1,637 1,827 1,829 1,834 1,1395 1,2013 class-84}
+{87 1,1044 1,1045 1,1046 1,1047 1,1048 1,1049 1,2013 class-268}
+{142 1,143 1,144 1,145 1,149 1,150 1,151 1,432 1,433 1,2013 class-191}
+{20 1,84 1,89 1,92 1,96 1,458 1,669 1,670 1,1396 1,1397 1,1398 1,1399 1,1400 1,1401 1,1402 1,2013 class-104}
+{48 1,279 1,681 1,682 1,683 1,684 1,685 1,686 1,687 1,1403 1,2013 class-51}
+{3 2,80 1,145 2,148 1,306 1,458 1,1404 1,1405 1,1406 1,2013 class-258}
+{244 1,246 1,586 1,587 1,1079 1,1081 1,1407 1,2013 class-54}
+{14 1,145 1,306 1,384 1,385 1,387 1,389 1,390 1,771 1,1310 1,1408 1,2013 class-130}
+{179 1,224 1,225 1,226 1,1219 1,1220 1,1409 1,1410 1,1411 1,2013 class-77}
+{57 1,80 1,487 1,709 1,712 1,870 1,871 1,910 1,912 1,914 1,2013 class-94}
+{6 1,66 1,107 1,145 1,275 2,636 1,641 1,642 1,1412 1,1413 1,1414 1,1415 1,1416 1,1417 1,1418 1,2013 class-118}
+{179 1,263 1,503 1,550 1,814 1,816 1,817 1,818 1,819 1,820 1,2013 class-213}
+{179 1,266 1,503 1,826 1,1419 1,1420 1,1421 1,1422 1,1423 1,1424 1,1425 1,2013 class-261}
+{145 1,179 1,180 1,257 1,258 1,266 1,291 1,545 1,661 1,826 1,1426 1,2013 class-80}
+{3 1,145 1,206 1,306 1,457 1,594 1,595 1,600 2,1404 1,1427 1,1428 1,1429 1,1430 1,1431 1,1432 1,1433 1,1434 1,2013 class-258}
+{170 1,632 1,634 1,635 1,1435 1,1436 1,2013 class-127}
+{6 1,106 1,107 1,108 1,117 1,119 1,174 1,368 1,372 1,375 1,515 1,556 1,1058 1,1437 1,2013 class-152}
+{145 1,176 1,179 1,180 1,181 1,182 1,266 1,544 1,1438 1,2013 class-204}
+{12 1,242 1,244 1,531 1,1439 1,1440 1,2013 class-266}
+{299 1,634 1,1391 1,1392 1,1393 1,1394 1,1441 1,2013 class-206}
+{379 1,564 1,565 1,566 1,567 1,645 1,1163 1,2013 class-62}
+{879 1,927 1,1142 1,1144 1,1146 1,1147 1,1442 1,1443 1,1444 1,2013 class-7}
+{329 1,503 1,842 1,1087 1,1089 1,1090 1,1091 1,2013 class-79}
+{264 1,265 1,503 1,543 1,547 1,549 1,550 1,551 1,552 1,553 1,849 1,1124 1,1369 1,1445 1,1446 1,1447 1,1448 1,1449 1,2013 class-142}
+{377 1,1164 1,1165 1,2013 class-56}
+{6 1,372 1,418 2,419 2,420 1,494 1,560 1,1055 1,1450 1,2013 class-244}
+{20 1,41 1,57 1,113 1,114 1,1365 1,1451 1,1452 1,2013 class-177}
+{162 1,244 1,615 1,617 2,626 1,627 1,2013 class-137}
+{62 1,316 1,329 1,340 1,1453 1,1454 1,1455 1,1456 1,1457 1,1458 1,1459 1,1460 1,2013 class-243}
+{66 1,145 1,306 1,536 1,1461 1,1462 1,1463 1,1464 1,1465 1,2013 class-41}
+{3 1,142 1,475 1,476 1,477 1,478 1,569 1,1003 1,1004 1,1143 1,2013 class-95}
+{2 1,20 1,145 1,201 1,300 1,306 1,386 1,467 1,2013 class-116}
+{145 1,213 1,399 1,523 1,524 1,531 1,645 1,2013 class-282}
+{31 1,57 1,62 1,329 1,340 1,741 1,742 1,743 1,744 1,746 1,747 1,748 1,749 1,750 1,1456 1,1466 1,1467 1,1468 1,2013 class-250}
+{617 1,626 1,796 1,797 1,798 1,1469 1,2013 class-233}
+{617 1,1308 1,1470 1,1471 1,2013 class-175}
+{20 1,582 1,583 1,617 1,1304 1,1326 1,1472 1,2013 class-68}
+{244 1,615 1,617 1,1469 1,2013 class-137}
+{3 1,319 1,320 1,321 1,322 1,323 1,324 1,325 1,326 1,327 1,328 1,329 1,330 1,2013 class-273}
+{244 1,617 1,828 1,1055 1,1308 1,1473 1,1474 1,1475 1,1476 1,1477 1,2013 class-190}
+{34 1,35 1,36 1,37 1,38 1,40 1,44 1,726 1,727 1,728 1,1478 1,2013 class-178}
+{20 1,617 1,918 1,940 1,941 1,1479 1,2013 class-172}
+{311 1,609 1,1348 1,1480 1,1481 1,1482 1,1483 1,1484 1,2013 class-57}
+{12 1,242 1,244 1,531 1,854 1,1485 1,2013 class-266}
+{244 1,617 1,971 1,972 1,973 1,1486 1,2013 class-10}
+{312 1,313 1,314 1,318 1,597 1,601 1,602 1,603 1,650 1,935 1,1041 1,1312 1,1314 1,1315 1,1487 1,2013 class-203}
+{20 1,580 1,586 1,617 1,940 1,941 1,2013 class-172}
+{582 1,617 1,797 1,916 1,917 1,918 1,919 1,1488 1,1489 1,1490 1,2013 class-123}
+{360 1,366 1,700 1,824 1,825 1,2013 class-227}
+{360 1,361 1,363 1,366 1,367 1,2013 class-183}
+{54 1,340 1,1236 1,1363 1,1491 1,1492 1,1493 1,1494 1,2013 class-22}
+{66 2,458 1,1464 1,1495 1,1496 1,1497 1,1498 1,2013 class-108}
+{201 1,457 1,989 1,990 1,991 1,992 1,1026 1,2013 class-222}
+{121 1,122 1,123 1,124 1,128 1,129 1,1499 1,1500 1,2013 class-33}
+{346 1,562 1,1243 1,1244 1,1245 1,1246 1,1284 1,2013 class-138}
+{20 1,617 1,972 1,1286 1,1287 1,1291 1,1501 1,1502 1,1503 1,2013 class-180}
+{14 1,145 1,303 1,305 1,306 1,457 1,461 1,771 1,989 1,990 1,991 1,992 1,1026 1,1064 1,1065 1,1504 1,1505 1,2013 class-222}
+{752 2,753 1,754 1,755 1,1506 1,1507 1,1508 1,2013 class-162}
+{31 1,145 1,384 1,995 1,996 1,1000 1,1001 1,1115 1,1116 1,1143 1,1509 1,2013 class-187}
+{122 1,123 1,124 1,129 1,756 1,1499 1,1500 1,2013 class-33}
+{379 2,1510 1,1511 1,1512 1,1513 1,1514 1,2013 class-157}
+{48 1,218 1,219 1,220 1,925 1,1227 1,1515 1,2013 class-23}
+{153 1,154 1,155 1,1050 1,2013 class-21}
+{20 1,580 1,586 1,617 1,940 1,941 1,2013 class-172}
+{62 1,66 1,329 1,340 1,503 1,1271 1,1273 1,1275 1,1276 1,1516 1,1517 1,2013 class-90}
+{20 1,586 1,617 1,940 1,941 1,2013 class-172}
+{244 1,617 1,1346 1,1347 1,1348 1,1352 1,2013 class-59}
+{66 1,180 1,276 1,282 1,283 1,396 1,516 1,519 1,522 1,1106 1,1110 1,2013 class-72}
+{244 1,581 1,588 1,617 1,1518 1,1519 1,2013 class-20}
+{300 1,444 1,690 1,1217 1,1520 1,1521 1,1522 1,1523 1,1524 1,1525 1,2013 class-49}
+{145 2,177 1,178 1,180 1,222 1,503 1,663 1,666 1,2013 class-181}
+{20 1,1259 1,1472 1,1526 1,1527 1,1528 1,2013 class-68}
+{153 1,154 1,155 1,377 1,2013 class-170}
+{66 1,276 1,282 1,532 1,534 1,535 1,536 1,537 1,1106 1,2013 class-263}
+{179 1,265 1,503 1,543 1,544 1,545 1,546 1,547 1,548 1,549 1,550 1,551 1,552 1,553 1,2013 class-142}
+{564 1,950 1,951 1,952 1,2013 class-129}
+{263 1,265 1,503 1,543 1,550 1,551 1,552 1,1529 1,2013 class-142}
+{305 1,444 1,688 1,689 1,690 1,691 1,692 1,1144 1,1530 1,2013 class-15}
+{20 1,24 1,145 1,179 1,225 1,451 1,453 1,454 1,455 1,456 1,821 1,1095 1,2013 class-133}
+{219 1,556 1,639 1,1120 1,1221 1,1389 1,1390 1,1531 1,1532 1,1533 1,2013 class-83}
+{416 1,417 1,418 1,422 1,495 1,580 1,1051 1,1053 1,1054 1,2013 class-40}
+{2 1,303 2,332 1,334 2,335 2,1534 1,1535 1,1536 2,2013 class-81}
+{145 1,179 1,180 1,257 1,258 1,266 1,660 1,661 1,2013 class-80}
+{145 1,503 1,663 1,666 1,1537 1,1538 1,2013 class-181}
+{177 1,178 1,179 1,257 1,258 1,396 1,544 1,559 1,661 1,716 1,831 1,1539 2,1540 1,2013 class-80}
+{225 1,369 1,715 1,797 1,1092 1,1093 1,1095 1,1096 1,1097 1,1219 1,1220 1,1386 1,1541 1,2013 class-278}
+{379 1,564 1,565 1,566 1,567 1,2013 class-62}
+{320 1,377 1,645 1,1061 1,1062 1,1163 1,2013 class-97}
+{265 1,503 2,543 1,547 1,548 1,549 1,551 1,552 1,553 1,849 1,1144 1,1367 1,1368 1,1369 1,2013 class-142}
+{320 1,377 1,1061 1,1163 1,2013 class-97}
+{8 1,12 1,13 1,14 1,15 1,16 1,17 1,18 1,19 1,20 1,823 1,1099 1,2013 class-156}
+{8 1,12 1,14 1,16 1,17 1,18 1,20 1,356 1,357 1,502 1,1542 1,2013 class-31}
+{6 1,48 1,54 1,55 1,102 1,2013 class-9}
+{6 1,372 1,418 1,419 1,420 1,536 1,557 1,560 1,608 1,1055 1,2013 class-244}
+{2 1,145 1,300 1,301 1,303 1,304 1,305 1,306 1,369 1,461 1,467 1,2013 class-116}
+{66 2,107 1,276 1,282 1,283 1,292 1,428 1,812 1,969 1,1199 1,1200 1,1201 2,1203 1,1204 1,1543 1,1544 1,1545 1,2013 class-192}
+{276 1,277 1,278 1,279 1,280 1,281 1,282 1,283 1,284 1,2013 class-63}
+{276 1,279 1,282 1,283 1,809 1,810 1,811 1,812 1,813 1,2013 class-61}
+{617 1,797 1,1305 1,1307 1,1309 1,1546 1,2013 class-259}
+{170 1,632 1,634 1,635 1,1435 1,1436 1,2013 class-127}
+{112 2,161 1,206 1,207 1,804 1,900 1,977 1,978 1,981 1,982 1,1067 1,1068 1,2013 class-1}
+{20 1,49 1,52 1,377 1,858 1,1168 1,1173 1,1547 1,1548 1,2013 class-229}
+{244 1,617 1,1080 1,1081 1,1549 1,1550 1,1551 2,1552 1,1553 1,1554 2,1555 1,1556 3,1557 1,1558 1,1559 1,2013 class-54}
+{244 1,580 1,581 1,586 1,617 1,1560 1,2013 class-20}
+{161 1,335 1,339 1,855 1,1032 1,1117 1,1118 1,1119 1,1120 1,2013 class-163}
+{377 1,1561 1,2013 class-154}
+{49 1,52 1,54 1,335 1,377 1,858 2,1230 1,1261 1,1262 2,1263 1,1562 1,1563 1,2013 class-280}
+{24 1,145 1,161 1,225 1,453 1,454 1,455 1,456 1,821 1,1564 1,2013 class-133}
+{4 1,5 1,20 1,41 1,42 1,97 1,291 1,2013 class-38}
+{4 1,5 1,41 1,42 1,43 1,48 1,2013 class-93}
+{377 1,1565 1,2013 class-24}
+{1050 1,1115 1,1566 1,1567 1,2013 class-271}
+{24 1,48 1,161 1,179 1,220 1,225 1,1075 1,1076 1,1077 1,1078 1,2013 class-55}
+{145 1,177 1,178 1,179 1,180 1,257 1,258 1,661 1,2013 class-80}
+{24 1,179 1,225 1,373 1,710 1,797 1,1092 1,1093 1,1095 1,1096 1,1097 1,1568 1,1569 1,2013 class-278}
+{178 1,257 1,261 1,263 1,265 1,764 1,851 1,1020 1,2013 class-76}
+{178 1,222 1,263 1,503 1,550 1,814 1,815 1,819 1,820 1,976 1,1179 1,1180 1,1570 1,2013 class-213}
+{145 1,281 1,418 1,686 1,1571 1,1572 2,1573 1,1574 1,1575 1,2013 class-39}
+{4 1,5 1,41 1,42 1,43 1,437 1,2013 class-93}
+{244 1,617 1,1346 1,1576 1,1577 1,1578 1,1579 1,1580 1,2013 class-59}
+{66 1,812 1,1581 1,2013 class-96}
+{31 1,145 1,283 1,418 1,684 1,812 1,945 2,947 2,948 2,967 1,1582 1,2013 class-14}
+{283 1,534 1,812 1,1112 1,1198 2,1582 1,1583 1,1584 1,1585 1,2013 class-102}
+{66 2,812 1,966 1,1106 1,1198 1,1371 1,2013 class-281}
+{24 1,27 1,279 1,283 1,812 1,842 1,1021 1,1022 1,2013 class-214}
+{283 1,386 1,1586 1,1587 1,1588 1,1589 1,1590 1,1591 1,2013 class-267}
+{179 1,220 1,221 1,224 1,225 1,227 1,228 1,229 1,2013 class-179}
+{135 1,161 1,177 1,283 1,812 1,1592 1,1593 1,1594 1,2013 class-208}
+{6 1,14 1,48 1,51 1,52 1,54 1,183 1,189 1,372 1,2013 class-112}
+{20 1,41 1,42 1,43 1,99 1,100 1,2013 class-93}
+{66 2,283 1,812 1,966 1,1197 1,1198 1,1202 1,1462 1,2013 class-176}
+{12 1,242 1,244 1,510 1,526 1,531 1,854 1,2013 class-266}
+{145 2,180 1,222 1,266 1,503 1,663 1,666 1,1570 1,2013 class-181}
+{258 1,423 1,672 1,996 1,1204 1,1209 1,1595 1,2013 class-234}
+{66 1,91 1,117 1,292 1,428 1,812 1,966 1,969 1,1596 1,1597 1,1598 1,1599 1,2013 class-276}
+{346 1,396 1,1159 1,1243 1,1244 1,1245 1,1246 1,1283 1,1284 1,2013 class-138}
+{634 1,1236 1,1391 1,1393 1,1394 1,1600 1,2013 class-206}
+{145 1,224 1,225 1,226 1,345 1,384 1,1227 1,1410 1,1601 1,1602 1,2013 class-202}
+{20 1,162 1,617 1,972 1,1286 1,1291 1,2013 class-180}
+{6 1,52 2,797 1,1230 2,1261 2,1603 1,1604 1,1605 1,2013 class-86}
+{258 1,423 1,996 1,1204 2,1207 1,1208 1,1209 1,1606 1,2013 class-234}
+{145 2,372 1,503 1,663 1,666 1,1607 1,1608 1,1609 2,2013 class-181}
+{632 1,633 1,635 1,1610 1,2013 class-127}
+{40 1,249 1,360 1,1611 1,2013 class-241}
+{6 1,8 1,13 1,14 1,17 1,18 1,465 1,1612 1,1613 1,2013 class-272}
+{377 1,1561 1,2013 class-154}
+{377 1,1164 1,1165 1,2013 class-56}
+{564 1,645 1,950 1,951 1,1614 1,1615 1,2013 class-129}
+{379 1,564 1,565 1,566 1,567 1,2013 class-62}
+{162 1,244 1,586 1,587 1,972 1,973 1,1616 1,1617 1,2013 class-10}
+{20 1,162 1,586 1,617 1,972 1,1286 1,1291 1,2013 class-180}
+{80 1,81 1,82 1,85 1,89 1,91 1,92 1,2013 class-67}
+{222 1,225 1,451 1,452 1,453 1,454 1,455 1,456 1,2013 class-133}
+{179 1,225 1,293 1,451 1,453 1,454 1,455 1,456 1,821 1,1569 1,1618 1,1619 1,2013 class-133}
+{580 1,581 1,586 1,617 1,1560 1,2013 class-20}
+{418 1,494 1,495 1,1053 1,1055 1,1079 1,1556 1,1620 1,1621 1,2013 class-277}
+{20 1,617 1,899 1,1153 1,1303 1,1622 1,1623 1,1624 1,1625 1,2013 class-248}
+{112 1,556 1,629 2,630 1,631 1,2013 class-168}
+{377 1,600 1,1513 1,1626 1,1627 1,1628 1,1629 1,1630 1,2013 class-109}
+{162 1,583 1,617 1,626 1,796 1,797 1,798 1,1348 1,1631 1,2013 class-233}
+{162 1,244 1,583 1,615 1,617 1,626 1,627 1,1348 1,1631 1,2013 class-137}
+{57 1,377 1,487 1,709 1,712 1,797 1,868 1,1007 1,1008 1,1009 1,2013 class-146}
+{244 1,586 1,587 1,1079 1,1080 1,2013 class-54}
+{20 1,586 1,587 1,725 1,1079 1,1632 1,1633 1,2013 class-275}
+{3 1,289 1,479 1,480 1,481 1,482 1,483 1,797 1,2013 class-251}
+{2 1,91 1,115 1,116 1,117 1,118 1,119 1,458 1,715 1,2013 class-53}
+{1 1,686 1,858 1,1208 1,1634 1,1635 1,1636 1,2013 class-185}
+{56 1,57 1,58 1,59 1,60 1,61 1,63 1,64 1,65 1,70 1,71 1,72 1,73 1,329 1,340 1,1090 1,1457 1,1637 1,1638 1,1639 1,2013 class-223}
+{48 1,170 1,635 1,768 1,1640 1,1641 1,1642 1,2013 class-110}
+{6 1,54 1,340 1,1234 1,1235 1,1236 1,1238 1,1535 1,1643 1,1644 1,2013 class-144}
+{27 1,169 1,285 1,866 1,1014 1,1610 1,2013 class-132}
+{62 1,68 1,117 1,329 1,340 1,534 1,1453 1,1454 1,1455 2,1645 1,1646 1,1647 1,1648 1,1649 1,2013 class-243}
+{112 1,319 1,326 1,328 1,329 1,1650 1,1651 1,2013 class-34}
+{213 1,215 1,219 1,776 1,953 1,956 1,2013 class-25}
+{6 1,45 1,46 1,48 1,49 1,50 1,51 1,52 1,2013 class-112}
+{418 1,494 1,495 1,501 1,1052 1,1053 1,1055 1,1079 1,1556 1,1620 1,1621 1,2013 class-277}
+{8 1,26 1,270 1,272 1,273 1,274 1,275 1,450 2,1505 1,1652 1,2013 class-165}
+{162 1,418 1,493 1,494 1,495 1,1053 1,1353 1,1355 1,2013 class-18}
+{211 1,281 1,391 2,842 1,1106 1,1208 1,1590 2,1653 1,1654 1,1655 1,1656 2,2013 class-150}
+{20 1,279 1,391 1,686 1,1655 1,1656 1,1657 1,1658 1,1659 1,2013 class-219}
+{12 1,40 1,245 1,246 1,2013 class-145}
+{20 1,145 1,179 1,225 1,451 1,452 1,453 1,454 1,455 1,456 1,1095 1,1131 1,2013 class-133}
+{1660 1,1661 1,1662 1,1663 1,1664 1,1665 1,2013 class-143}
+{162 1,972 1,1476 1,1477 1,1666 1,2013 class-190}
+{60 1,315 1,699 1,709 1,790 1,791 1,792 1,794 1,795 1,1103 1,1105 2,1379 1,1667 1,2013 class-126}
+{276 1,281 1,282 1,283 1,418 1,428 1,945 1,946 1,947 1,948 1,949 1,967 1,2013 class-14}
+{33 1,49 1,144 1,190 1,191 1,196 1,315 1,503 1,504 1,505 1,506 1,507 1,1455 1,1668 1,1669 1,2013 class-186}
+{52 1,582 1,617 1,1304 1,1307 1,1670 1,1671 1,1672 1,2013 class-124}
+{244 1,617 1,1079 1,1081 1,1346 1,1347 1,1348 1,1673 1,2013 class-59}
+{20 1,41 1,42 1,97 1,99 1,100 1,544 1,1674 1,2013 class-38}
+{1 1,2 1,75 1,76 1,99 1,100 1,112 1,188 1,2013 class-48}
+{923 1,1221 1,1222 1,1227 1,1228 1,1229 1,1675 1,2013 class-231}
+{285 1,704 1,705 1,1676 1,1677 1,1678 1,1679 1,1680 1,1681 1,1682 1,2013 class-188}
+{225 1,797 1,1092 1,1093 1,1095 1,1096 1,1097 1,2013 class-278}
+{20 1,48 1,162 1,418 1,493 1,495 1,1053 1,1353 1,1355 1,1683 1,1684 1,2013 class-18}
+{13 1,27 1,167 1,169 1,285 1,286 1,287 1,290 1,297 1,1610 1,2013 class-242}
+{417 1,418 1,422 1,495 1,580 1,1053 1,1055 1,2013 class-40}
+{244 1,580 1,581 1,588 1,617 1,2013 class-20}
+{219 1,923 1,1221 1,1388 1,1389 1,1390 1,2013 class-83}
+{2 1,20 1,84 1,96 1,201 1,300 1,302 1,386 1,466 1,467 1,2013 class-116}
+{48 1,220 1,925 1,927 1,1685 1,1686 1,1687 1,2013 class-23}
+{8 1,9 1,106 1,107 1,108 1,117 1,340 1,369 1,374 1,513 1,556 1,843 1,1003 1,1373 1,1688 1,2013 class-75}
+{145 1,307 1,308 1,310 1,311 1,675 1,1249 1,2013 class-269}
+{1541 1,1689 1,1690 1,1691 1,1692 1,1693 1,1694 1,1695 1,2013 class-194}
+{54 1,444 1,704 1,1696 1,1697 1,1698 1,1699 1,2013 class-238}
+{377 1,645 1,1700 1,1701 1,1702 1,2013 class-253}
+{161 1,665 1,703 1,1150 1,1151 1,1152 1,1703 1,2013 class-215}
+{52 1,145 1,281 1,704 1,1704 1,1705 1,2013 class-256}
+{703 1,704 1,705 1,2013 class-5}
+{48 1,220 1,925 1,927 1,930 1,974 1,975 1,1686 1,2013 class-23}
+{377 1,645 1,1163 1,1565 1,2013 class-24}
+{145 1,281 1,704 1,1107 1,1112 1,1159 1,1706 1,1707 1,2013 class-270}
+{4 1,5 1,6 1,54 1,55 1,102 1,112 1,188 1,2013 class-9}
+{48 1,179 1,220 1,225 1,1075 1,1076 1,1077 1,1078 1,2013 class-55}
+{48 1,338 1,1146 1,1204 1,1708 1,1709 1,1710 1,1711 1,1712 1,1713 1,1714 1,1715 1,1716 1,2013 class-166}
+{20 1,391 1,686 1,966 1,1403 1,1655 1,1658 1,1659 1,1717 1,2013 class-219}
+{220 1,222 1,225 1,1075 1,2013 class-55}
+{705 1,1718 1,1719 1,1720 1,2013 class-50}
+{20 1,213 1,214 1,215 1,216 1,218 1,219 1,777 1,2013 class-25}
+{580 1,586 1,617 1,948 1,1721 1,2013 class-239}
+{14 1,797 1,1310 1,1331 1,1332 1,1333 1,1334 1,1408 1,1722 1,2013 class-230}
+{13 1,47 1,285 1,286 1,288 1,289 1,298 1,2013 class-242}
+{20 1,100 1,351 1,352 1,353 1,354 1,355 1,1535 1,2013 class-32}
+{100 1,303 1,332 1,334 1,335 1,352 1,353 1,1535 1,1536 1,2013 class-81}
+{162 1,493 1,494 1,495 1,496 2,497 1,498 1,499 1,500 1,501 1,2013 class-18}
+{244 1,580 1,581 1,586 1,617 1,1560 1,2013 class-20}
+{6 1,49 1,52 1,54 1,335 1,377 1,855 1,858 1,1260 1,1262 2,1263 1,1264 1,1723 1,2013 class-280}
+{152 1,153 1,154 1,155 1,2013 class-21}
+{12 2,40 1,245 1,246 1,249 1,512 1,640 1,2013 class-145}
+{2 1,315 1,316 1,317 1,589 1,932 1,933 1,934 1,935 1,936 1,937 1,938 1,939 1,2013 class-141}
+{20 1,89 1,91 1,92 1,107 1,790 1,1724 1,1725 1,1726 1,2013 class-159}
+{48 1,80 1,81 1,82 1,86 1,89 1,91 1,92 1,770 1,2013 class-67}
+{34 1,35 1,36 1,37 1,40 1,2013 class-178}
+{360 1,365 1,366 1,700 1,701 1,824 1,825 1,1727 1,1728 1,2013 class-227}
+{3 1,6 1,14 1,49 1,51 1,52 1,54 1,183 1,189 1,372 1,2013 class-112}
+{257 1,258 1,259 1,264 1,549 1,851 1,853 1,1729 1,1730 1,1731 1,1732 1,2013 class-76}
+{20 1,84 1,89 1,92 1,96 1,458 1,669 1,670 1,1396 1,1397 1,1398 1,1399 1,1400 1,1401 1,1402 1,1733 1,2013 class-104}
+{20 1,213 1,215 1,218 1,776 1,777 1,927 1,953 1,954 1,955 1,956 1,2013 class-25}
+{24 1,145 1,179 1,225 1,269 1,719 1,797 1,1219 1,1220 1,1734 1,1735 1,2013 class-74}
+{20 1,36 1,89 1,130 1,1062 1,1398 1,1414 1,1736 1,1737 1,1738 1,2013 class-44}
+{4 1,5 1,41 1,42 1,43 1,48 1,2013 class-93}
+{4 1,5 1,6 1,48 1,53 1,54 1,55 1,303 1,2013 class-9}
+{145 2,276 1,282 1,283 1,306 1,515 1,1143 1,1509 1,1739 1,1740 1,1741 1,2013 class-235}
+{34 1,35 1,36 1,37 1,40 1,2013 class-178}
+{20 1,21 1,27 1,29 1,30 1,41 1,169 1,170 1,1742 1,2013 class-182}
+{12 1,16 1,17 1,20 1,434 1,435 1,436 1,915 1,2013 class-31}
+{142 1,143 1,144 1,145 1,146 1,147 1,148 1,149 1,150 1,151 1,432 1,2013 class-191}
+{161 1,180 1,703 1,1150 1,1151 1,1152 1,2013 class-215}
+{20 1,582 1,583 1,587 1,617 1,897 1,1304 1,1326 1,1348 1,1472 1,1743 1,2013 class-68}
+{48 1,218 1,219 1,220 1,925 1,1227 1,1515 1,2013 class-23}
+{179 1,220 1,221 1,226 1,643 1,1744 1,1745 1,1746 1,2013 class-179}
+{2 1,100 1,345 1,351 1,1535 1,2013 class-32}
+{20 1,580 1,586 1,617 1,941 1,1747 1,2013 class-172}
+{8 1,26 1,269 1,270 1,272 1,273 1,274 1,275 1,2013 class-165}
+{27 1,168 1,169 1,170 1,285 1,904 1,905 1,2013 class-262}
+{12 1,531 1,1439 1,1440 1,1748 1,1749 1,2013 class-266}
+{13 1,285 1,286 1,287 1,288 1,289 1,290 1,2013 class-242}
+{0 1,1 2,2 1,3 2,77 1,239 1,335 1,372 1,879 1,1750 1,1751 1,1752 1,1753 1,1754 1,2013 class-48}
+{179 1,220 1,225 1,303 1,1075 1,1076 1,1077 1,1078 1,2013 class-55}
+{0 1,258 1,372 1,423 1,428 1,429 1,461 1,877 1,1690 1,2013 class-246}
+{179 1,220 1,221 1,225 1,227 1,228 1,229 1,1755 1,2013 class-179}
+{162 1,617 1,972 1,1756 1,1757 1,1758 1,2013 class-190}
+{31 1,48 1,219 1,220 1,925 1,976 1,2013 class-23}
+{161 1,580 1,801 1,2013 class-36}
+{2 1,27 1,115 1,116 1,117 1,118 1,119 1,120 1,2013 class-53}
+{14 1,145 1,384 1,385 1,387 1,389 1,390 1,857 1,985 1,2013 class-130}
+{97 2,147 1,384 1,569 2,949 1,995 1,1000 1,1001 1,1143 1,1759 2,1760 1,2013 class-187}
+{112 1,628 1,629 1,630 1,631 1,1761 1,2013 class-168}
+{20 1,162 1,617 1,972 1,1286 1,1291 1,1762 1,2013 class-180}
+{244 1,617 1,1079 1,1346 1,1347 1,1348 1,1352 1,2013 class-59}
+{162 1,418 1,493 1,608 1,1763 1,2013 class-18}
+{20 1,580 1,918 1,1054 1,1279 1,1280 1,2013 class-98}
+{244 1,580 1,581 1,918 1,942 1,1560 1,1764 1,1765 1,1766 1,2013 class-20}
+{8 1,12 1,13 1,14 1,15 1,16 1,17 1,18 1,19 1,20 1,435 1,827 1,1099 1,2013 class-156}
+{8 1,12 1,16 1,17 1,18 1,20 1,357 1,435 1,827 1,915 1,1542 1,1767 1,2013 class-31}
+{377 1,378 1,379 2,380 1,381 1,382 1,2013 class-128}
+{580 1,797 1,918 1,948 1,1721 1,1768 1,2013 class-239}
+{6 1,14 1,48 1,49 1,51 1,52 1,54 1,183 1,189 1,2013 class-112}
+{80 1,95 1,315 1,316 1,590 1,591 1,593 1,597 1,601 1,603 1,606 1,607 1,639 1,650 1,1297 1,1312 1,1315 1,1325 1,2013 class-16}
+{451 1,457 1,647 1,648 1,649 1,650 1,984 1,2013 class-64}
+{14 1,145 1,201 1,300 1,301 1,303 1,306 1,1769 1,2013 class-116}
+{33 1,48 1,144 1,190 1,191 1,196 1,315 1,414 1,503 1,504 1,505 1,506 1,507 1,1232 1,1233 1,1455 1,1668 1,1669 1,2013 class-186}
+{14 1,387 2,394 1,439 1,688 1,689 1,690 1,705 1,857 1,1217 1,1333 1,1770 2,1771 1,2013 class-15}
+{0 1,112 1,258 1,372 1,423 1,425 1,428 1,429 1,2013 class-246}
+{222 1,225 1,451 1,452 1,453 1,454 1,455 1,456 1,821 1,2013 class-133}
+{20 1,24 1,179 1,220 1,221 1,224 1,225 1,226 1,227 1,228 1,229 1,373 1,643 1,1095 1,1227 1,2013 class-179}
+{451 1,457 1,600 1,647 1,648 1,649 1,650 1,651 1,652 1,653 1,654 1,655 1,656 1,657 1,658 1,1772 1,2013 class-64}
+{517 1,530 1,531 1,1086 1,1130 1,1773 1,1774 1,1775 1,1776 1,1777 1,2013 class-169}
+{177 1,244 1,617 1,1079 1,1080 1,1081 1,1082 1,1348 1,1556 1,1778 1,1779 2,1780 1,1781 1,1782 1,1783 1,1784 1,1785 1,2013 class-54}
+{580 1,797 1,918 1,948 1,1721 1,1768 1,2013 class-239}
+{20 1,580 1,586 1,617 1,941 1,1747 1,2013 class-172}
+{121 1,122 1,123 1,124 1,125 1,126 1,127 1,128 1,129 1,756 1,2013 class-33}
+{20 1,307 1,797 1,1006 1,1786 1,1787 1,1788 1,1789 1,2013 class-121}
+{2 1,130 1,131 1,132 1,134 1,137 1,138 1,139 1,669 1,1063 1,2013 class-225}
+{244 1,386 1,757 1,855 1,856 1,857 2,858 1,2013 class-4}
+{222 1,257 1,258 1,259 1,265 1,851 1,2013 class-76}
+{24 1,27 1,276 1,279 1,281 1,282 1,283 1,842 1,1021 1,1022 1,2013 class-214}
+{66 2,812 1,966 1,1106 1,1107 1,1198 1,1371 1,1790 1,2013 class-281}
+{145 1,281 1,704 1,1107 1,1110 1,1112 1,1208 1,1707 1,1791 1,2013 class-270}
+{416 1,417 1,422 1,580 1,787 1,1792 1,1793 1,1794 1,2013 class-40}
+{276 1,277 1,278 1,279 1,280 1,281 1,282 1,283 1,284 1,2013 class-63}
+{20 1,24 1,179 1,220 1,221 1,224 1,225 1,226 1,227 1,228 1,229 1,373 1,643 1,1095 1,1227 1,2013 class-179}
+{276 1,279 1,282 1,283 1,809 1,810 1,811 1,812 1,813 1,2013 class-61}
+{14 1,84 1,96 1,201 1,303 1,304 1,305 1,457 1,771 1,989 1,990 1,991 1,992 1,1026 1,1064 1,1065 1,2013 class-222}
+{80 1,95 1,590 1,591 1,593 1,1297 1,1325 1,1795 1,2013 class-16}
+{40 1,249 1,360 1,1611 1,2013 class-241}
+{8 1,26 1,269 1,270 1,271 1,272 1,273 1,274 1,275 1,2013 class-165}
+{48 1,531 1,903 1,1086 1,1149 1,1221 1,1796 1,2013 class-174}
+{20 1,145 1,307 1,308 1,309 1,310 1,311 1,2013 class-269}
+{161 1,564 1,580 1,799 1,800 1,807 2,808 1,2013 class-36}
+{20 1,145 1,307 1,308 1,310 1,311 1,675 1,2013 class-269}
+{265 1,503 1,543 1,550 1,551 1,552 1,849 1,1529 1,1797 1,2013 class-142}
+{360 1,365 1,366 1,700 1,824 1,825 1,1798 1,2013 class-227}
+{6 1,7 1,8 1,9 1,10 1,11 1,2013 class-87}
+{24 1,48 1,179 1,225 1,373 1,710 1,1092 1,1093 1,1095 1,1096 1,1097 1,1568 1,1569 1,2013 class-278}
+{222 1,225 1,451 1,452 1,453 1,454 1,455 1,456 1,821 1,1564 1,1799 1,2013 class-133}
+{4 1,5 1,41 1,42 1,97 1,751 1,1800 1,1801 1,2013 class-38}
+{312 1,313 1,314 1,315 1,316 1,317 1,318 1,2013 class-203}
+{8 1,12 1,13 1,15 1,16 1,17 1,18 1,19 1,20 1,412 1,2013 class-156}
+{6 1,8 1,9 1,10 1,368 1,376 1,2013 class-152}
+{0 1,1 1,2 1,3 1,958 1,959 1,2013 class-48}
+{8 1,91 1,106 1,107 1,108 1,117 1,340 1,369 1,513 1,514 1,556 1,1802 1,1803 1,2013 class-70}
+{6 1,45 1,49 1,50 1,51 1,79 1,183 1,512 1,2013 class-112}
+{4 1,5 1,41 1,42 1,43 1,79 1,512 1,2013 class-93}
+{4 1,5 1,6 1,53 1,54 1,55 1,79 1,512 1,2013 class-9}
+{20 1,582 1,583 1,617 1,897 1,1259 1,1326 1,1348 1,1743 1,2013 class-68}
+{66 2,107 1,276 1,282 1,283 1,292 1,428 1,472 1,812 1,966 1,969 1,1106 1,1197 1,1198 1,1199 1,1200 1,1201 2,1202 1,1203 1,1204 1,1804 1,2013 class-176}
+{57 1,80 1,709 1,712 1,870 1,871 1,893 1,910 1,912 1,914 1,2013 class-94}
+{64 1,503 1,543 1,551 1,552 1,553 1,1020 1,1805 1,2013 class-142}
+{66 1,519 1,534 1,699 1,709 1,790 1,795 1,842 1,868 1,1100 1,1104 1,1398 1,1806 1,1807 1,1808 1,2013 class-126}
+{142 1,143 1,144 1,145 1,149 1,150 1,151 1,432 1,433 1,2013 class-191}
+{3 1,188 3,194 1,244 1,479 1,480 1,481 1,482 1,483 1,484 1,485 1,488 1,489 1,490 1,491 1,492 1,906 1,1809 1,1810 1,2013 class-251}
+{6 1,49 1,52 1,54 1,377 1,797 1,855 1,858 1,1230 1,1261 1,1262 2,1263 1,1811 1,1812 1,2013 class-280}
+{33 1,49 1,377 1,855 1,858 1,1208 1,1240 1,1241 1,1242 1,1253 1,2013 class-216}
+{135 1,161 1,177 1,276 1,282 1,283 1,812 1,1592 1,1593 1,1594 1,2013 class-208}
+{6 1,47 1,48 1,49 1,51 1,52 1,54 1,183 1,372 1,2013 class-112}
+{564 1,950 1,951 1,952 1,2013 class-129}
+{244 1,586 1,587 1,1079 1,1346 1,2013 class-59}
+{20 1,162 1,586 1,587 1,972 1,1286 1,1291 1,2013 class-180}
+{12 1,52 1,145 2,325 1,458 1,535 1,812 1,1106 1,1704 1,2013 class-256}
+{145 1,179 1,180 1,257 1,258 1,266 1,660 1,661 1,2013 class-80}
+{2 1,27 1,91 1,115 1,116 1,117 1,119 1,1813 1,2013 class-53}
+{699 1,709 1,790 1,791 1,795 1,868 1,891 1,2013 class-126}
+{797 1,879 1,927 1,1140 1,1142 1,1144 1,1146 1,1147 1,1443 1,1444 1,1814 1,2013 class-7}
+{699 1,709 1,790 1,791 1,795 1,868 1,891 1,1103 1,1808 1,2013 class-126}
+{6 1,8 1,9 1,10 1,103 1,109 1,2013 class-211}
+{36 1,87 1,428 1,589 1,932 1,1044 1,1045 1,1046 1,1047 1,1048 1,1049 1,1358 1,1361 1,2013 class-268}
+{130 1,131 1,132 1,133 1,134 1,135 1,136 1,137 1,138 1,139 1,2013 class-225}
+{58 1,161 1,318 1,589 1,932 1,1188 1,1189 1,1190 1,1193 1,1194 1,1195 1,1196 1,1605 1,2013 class-88}
+{20 1,36 1,89 1,130 1,145 1,306 1,935 1,1414 1,1736 1,1815 1,1816 1,1817 1,1818 1,1819 1,2013 class-44}
+{18 1,276 1,281 1,282 1,283 1,534 1,1198 1,1583 1,1585 1,2013 class-102}
+{377 1,378 1,379 2,380 1,381 1,382 1,2013 class-128}
+{2 1,315 1,316 1,318 1,589 1,597 1,598 1,601 1,603 1,604 1,605 1,794 1,932 1,933 1,934 1,936 1,937 1,938 1,939 1,1311 1,1312 1,1314 1,1820 1,1821 1,1822 1,1823 1,2013 class-141}
+{312 1,313 1,314 1,315 1,316 1,318 1,597 1,601 1,602 1,603 1,604 1,605 1,650 1,1311 1,1312 1,1314 1,1315 1,1820 1,1824 1,2013 class-203}
+{2 1,48 1,100 1,275 1,351 1,354 1,355 1,976 1,1535 1,1825 1,2013 class-32}
+{923 1,1221 1,1222 1,1227 1,1228 1,1229 1,1675 1,2013 class-231}
+{145 1,176 1,177 1,178 1,179 1,180 1,181 1,182 1,269 1,2013 class-204}
+{179 1,220 1,225 1,1002 1,1075 1,1095 1,2013 class-55}
+{145 1,384 1,995 1,996 1,1000 1,1001 1,1115 1,1116 1,1143 1,1509 1,2013 class-187}
+{14 1,145 2,276 1,282 1,283 1,306 1,515 1,1143 1,1333 1,1509 1,1739 1,1741 1,2013 class-235}
+{276 1,282 1,283 1,1586 1,1587 1,1588 1,1590 1,1591 1,1826 1,1827 1,1828 1,2013 class-267}
+{377 1,378 1,379 2,380 1,381 1,382 1,1829 1,2013 class-128}
+{8 1,91 1,106 1,107 1,108 1,117 1,119 1,174 1,340 1,513 1,514 1,1802 1,1830 1,1831 1,1832 1,2013 class-70}
+{451 1,457 1,647 1,648 1,649 1,650 1,656 1,657 1,658 1,662 1,1833 1,2013 class-64}
+{3 1,6 1,47 1,48 1,51 1,52 1,822 1,1273 1,1834 1,1835 1,2013 class-112}
+{26 1,48 1,49 1,144 1,190 1,191 1,196 1,293 1,503 1,507 1,544 1,860 1,1455 1,1668 1,1669 1,1836 1,1837 1,1838 1,1839 1,2013 class-186}
+{6 1,8 1,9 1,10 1,368 1,376 1,2013 class-152}
+{89 1,130 1,1181 1,1182 2,1183 1,1184 1,1185 1,1186 1,1187 1,2013 class-201}
+{18 1,276 1,281 1,282 1,283 1,534 1,1198 1,1583 1,1585 1,2013 class-102}
+{281 1,391 2,842 1,966 1,1106 1,1107 1,1198 1,1208 1,1590 2,1653 1,1656 2,2013 class-150}
+{20 1,36 1,580 1,586 1,617 1,941 1,942 1,943 1,944 1,1747 1,1840 1,2013 class-172}
+{265 1,503 2,543 1,547 1,548 1,549 1,551 1,552 1,553 1,849 1,1144 1,1367 1,1368 1,1369 1,2013 class-142}
+{244 1,580 1,581 1,586 1,617 1,1560 1,2013 class-20}
+{6 1,372 1,430 1,431 1,494 1,497 1,498 2,499 2,501 1,536 1,557 1,560 1,1055 1,1841 1,2013 class-244}
+{178 1,257 1,259 1,264 1,265 1,268 1,549 1,710 1,807 1,2013 class-76}
+{66 1,276 1,282 1,532 1,534 1,535 1,536 1,537 1,1106 1,2013 class-263}
+{8 1,12 1,17 1,18 1,20 1,356 1,357 1,411 1,2013 class-31}
+{152 1,153 1,154 1,155 1,1842 1,1843 1,2013 class-21}
+{312 1,313 1,314 1,363 1,556 1,601 1,603 1,605 1,650 1,935 1,1185 1,1311 1,1312 1,1314 1,1315 1,1726 1,1844 1,1845 1,1846 1,1847 1,1848 1,2013 class-203}
+{57 1,80 1,377 1,487 1,709 1,712 1,910 1,912 1,914 1,2013 class-94}
+{329 1,503 1,842 1,1087 1,1089 1,1090 1,1091 1,1413 1,2013 class-79}
+{416 1,417 1,418 1,422 1,495 1,580 1,1053 1,2013 class-40}
+{219 1,920 1,1182 1,1532 1,1849 1,1850 1,1851 1,1852 1,1853 1,1854 1,2013 class-279}
+{377 1,600 1,1513 1,1626 1,1627 1,1628 1,1629 1,1630 1,2013 class-109}
+{377 1,1164 1,1165 1,2013 class-56}
+{8 1,12 1,14 1,18 1,356 1,357 1,502 1,2013 class-31}
+{20 1,33 1,144 1,191 1,193 1,196 1,197 1,372 1,503 1,600 1,780 1,781 1,782 1,783 1,784 1,785 1,786 1,2013 class-186}
+{6 1,54 1,340 1,1130 1,1236 1,1362 1,1363 1,1364 1,2013 class-22}
+{219 1,920 1,923 1,1855 1,2013 class-226}
+{179 1,220 1,221 1,224 1,225 1,227 1,228 1,229 1,2013 class-179}
+{265 1,503 1,543 1,550 1,551 1,552 1,849 1,1529 1,1797 1,2013 class-142}
+{57 1,80 1,377 1,487 1,709 1,712 1,910 1,912 1,914 1,2013 class-94}
+{329 1,503 1,842 1,1087 1,1088 1,1089 1,1413 1,1856 1,2013 class-221}
+{360 1,365 1,366 1,700 1,701 1,824 1,825 1,2013 class-227}
+{360 1,361 1,363 1,365 1,366 1,367 1,2013 class-183}
+{257 1,258 1,259 1,264 1,549 1,851 1,852 1,853 1,1729 1,1730 1,1731 1,2013 class-76}
+{33 1,855 1,1204 1,1208 1,1240 1,1241 1,1242 1,1253 1,1857 1,2013 class-216}
+{49 1,144 1,196 1,503 1,504 1,507 1,780 1,785 1,1837 1,2013 class-186}
+{12 1,52 1,145 2,325 1,458 1,535 1,812 1,1106 1,1704 1,2013 class-256}
+{580 1,586 1,587 1,942 1,948 1,1858 1,1859 1,2013 class-239}
+{1153 1,1617 1,1757 2,1860 1,1861 1,1862 1,1863 2,1864 2,1865 1,1866 1,1867 1,1868 1,1869 1,1870 1,1871 1,2013 class-195}
+{57 1,80 1,377 1,487 1,709 1,712 1,910 1,912 1,914 1,2013 class-94}
+{57 1,80 1,377 1,487 1,709 1,712 1,910 1,912 1,914 1,2013 class-94}
+{26 1,48 1,49 1,144 1,190 1,191 1,196 1,293 1,503 1,507 1,544 1,860 1,1455 1,1668 1,1669 1,1836 1,1837 1,1838 1,1839 1,2013 class-186}
+{3 1,6 1,47 1,48 1,51 1,52 1,822 1,1273 1,1834 1,1835 1,2013 class-112}
+{377 1,1702 1,1872 1,2013 class-253}
+{89 1,589 1,932 1,1396 1,1399 1,1400 1,1401 1,1402 1,2013 class-104}
+{26 2,52 1,108 1,269 1,273 1,274 1,396 1,539 1,561 1,563 1,1873 1,2013 class-101}
+{48 1,220 1,925 1,927 1,930 1,974 1,975 1,1686 1,2013 class-23}
+{329 1,503 1,842 1,1087 1,1088 1,1089 1,1413 1,1856 1,2013 class-221}
+{145 1,306 1,384 1,385 1,386 1,387 1,388 1,389 1,390 1,391 1,1310 1,1408 1,2013 class-130}
+{20 1,611 1,614 1,778 1,779 1,848 1,1871 1,1874 1,2013 class-105}
+{6 1,53 1,54 1,55 1,568 1,1002 1,1875 1,1876 1,1877 1,2013 class-9}
+{12 1,242 1,244 1,531 1,1439 1,1440 1,2013 class-266}
+{699 1,709 1,790 1,791 1,795 1,1398 1,1808 1,1878 1,1879 1,2013 class-126}
+{315 1,453 1,534 1,699 1,709 1,790 1,792 1,795 1,1380 1,1808 1,1880 1,2013 class-126}
+{20 1,145 1,225 1,452 1,453 1,454 1,455 1,456 1,1095 1,1564 1,2013 class-133}
+{451 1,457 1,647 1,648 1,649 1,650 1,656 1,657 1,658 1,662 1,1833 1,2013 class-64}
+{135 1,145 1,176 1,179 1,180 1,181 1,182 1,266 1,269 1,544 1,1133 1,1438 1,1526 1,1735 2,1881 1,1882 1,1883 1,1884 1,2013 class-204}
+{179 1,263 1,264 1,265 1,291 1,503 1,543 1,550 1,551 1,552 1,1438 1,1447 1,1885 1,1886 1,1887 1,2013 class-142}
+{145 1,179 1,233 2,257 1,261 1,263 1,265 1,851 1,1020 1,1369 1,1732 1,1888 1,1889 1,1890 1,1891 1,1892 1,2013 class-76}
+{145 1,179 1,180 1,257 1,266 1,659 1,1133 1,1883 1,1884 1,2013 class-80}
+{8 1,26 1,78 1,269 1,270 1,271 1,272 1,273 1,274 1,275 1,354 1,1802 1,2013 class-165}
+{312 1,313 1,314 1,363 1,556 1,601 1,603 1,605 1,650 1,935 1,1185 1,1311 1,1312 1,1314 1,1315 1,1726 1,1844 1,1845 1,1846 1,1847 1,1848 1,2013 class-203}
+{31 1,145 1,416 1,417 1,418 1,419 1,420 1,422 1,501 1,580 1,1054 1,1055 1,2013 class-40}
+{20 1,225 1,373 1,451 1,452 1,453 1,454 1,455 1,456 1,821 1,1095 1,1893 1,2013 class-133}
+{20 1,213 1,214 1,215 1,216 1,218 1,219 1,777 1,2013 class-25}
+{3 1,6 1,47 1,48 1,51 1,52 1,822 1,1273 1,1834 1,1835 1,2013 class-112}
+{8 1,26 1,78 1,269 1,270 1,271 1,272 1,273 1,274 1,275 1,354 1,1802 1,2013 class-165}
+{3 1,31 1,41 1,42 1,43 1,48 1,437 1,1392 1,1877 1,1894 1,1895 1,2013 class-93}
+{451 1,457 1,647 1,648 1,649 1,650 1,656 1,657 1,658 1,662 1,1833 1,2013 class-64}
+{2 1,145 1,201 1,300 1,301 1,303 1,306 1,386 1,467 1,857 1,1896 1,2013 class-116}
+{179 1,257 1,258 1,559 1,661 1,1540 1,2013 class-80}
+{57 1,377 1,487 1,709 1,712 1,868 1,1007 1,1008 1,1009 1,1010 1,2013 class-146}
+{135 1,145 1,176 1,179 1,180 1,181 1,182 1,266 1,269 1,544 1,1133 1,1438 1,1526 1,1735 2,1881 1,1882 1,1883 1,1884 1,2013 class-204}
+{145 1,179 1,180 1,257 1,266 1,659 1,1133 1,1883 1,1884 1,2013 class-80}
+{3 1,6 1,51 1,52 1,54 1,112 1,183 1,293 1,305 1,487 1,600 1,859 1,860 1,861 1,862 1,2013 class-112}
+{587 1,617 1,897 1,1304 1,1305 1,1306 2,1307 1,1308 1,1309 1,1348 1,1897 1,2013 class-259}
+{145 2,179 1,180 1,266 1,503 1,660 1,663 1,666 1,1133 1,1898 1,2013 class-181}
+{315 1,453 1,534 1,699 1,709 1,790 1,792 1,795 1,1380 1,1808 1,1880 1,2013 class-126}
+{56 1,57 1,58 1,59 1,60 1,61 1,62 1,63 1,64 1,65 1,66 1,67 1,68 1,69 1,70 1,71 1,72 1,73 1,2013 class-223}
+{611 1,614 1,778 1,779 1,847 1,848 1,2013 class-105}
+{66 1,276 1,282 1,532 1,534 1,535 1,536 1,537 1,812 1,1106 1,2013 class-263}
+{161 1,335 1,339 1,855 1,1032 1,1117 1,1118 1,1119 1,1120 1,2013 class-163}
+{56 1,57 1,58 1,59 1,60 1,61 1,62 1,63 1,64 1,65 1,66 1,67 1,68 1,69 1,70 1,71 1,72 1,73 1,2013 class-223}
+{162 1,617 1,972 1,1055 1,1345 1,1357 1,1474 1,1476 1,1666 1,1899 1,1900 1,1901 1,2013 class-190}
+{36 1,363 1,556 1,589 1,669 1,699 1,932 1,935 1,1044 1,1045 1,1047 1,1048 1,1049 1,1062 1,1358 1,1902 1,1903 1,1904 1,2013 class-268}
+{8 1,12 1,13 1,15 1,16 1,17 1,18 1,20 1,412 1,435 1,1905 1,2013 class-156}
+{20 1,145 1,179 1,220 1,221 1,224 1,225 1,226 1,227 1,228 1,229 1,1227 1,1906 1,2013 class-179}
+{145 1,306 1,384 1,385 1,386 1,387 1,388 1,389 1,390 1,391 1,1310 1,1408 1,2013 class-130}
+{8 1,12 1,13 1,15 1,16 1,17 1,18 1,20 1,412 1,435 1,1905 1,2013 class-156}
+{162 1,617 1,626 1,796 1,798 1,1308 1,1354 1,1907 1,1908 1,2013 class-233}
+{87 1,1046 1,1125 1,1126 1,1127 1,1387 1,1909 1,2013 class-114}
+{2 1,130 1,131 1,132 1,134 1,137 1,138 1,139 1,669 1,1063 1,2013 class-225}
+{87 1,589 1,932 1,1044 1,1045 1,1046 1,1047 1,1048 1,1049 1,2013 class-268}
+{162 1,617 2,626 1,796 1,797 1,798 1,2013 class-233}
+{162 1,244 1,615 1,617 2,626 1,627 1,2013 class-137}
+{20 1,179 1,220 1,221 1,224 1,225 1,226 1,1910 1,1911 1,1912 1,2013 class-179}
+{48 1,220 1,925 1,927 1,930 1,974 1,975 1,1686 1,2013 class-23}
+{20 1,213 1,214 1,215 1,218 1,219 1,776 1,777 1,1913 1,2013 class-25}
+{20 1,161 1,179 1,225 1,451 1,454 1,455 1,456 1,1095 1,1912 1,2013 class-133}
+{52 1,66 2,107 1,276 1,281 1,282 1,283 1,428 1,1106 1,1199 1,1200 1,1203 1,1204 1,1543 1,1545 1,1914 1,1915 1,1916 1,2013 class-192}
+{13 1,135 1,161 1,177 1,276 2,281 1,282 2,283 1,1592 1,1916 1,1917 1,1918 1,2013 class-208}
+{8 1,12 1,16 1,17 1,18 1,20 1,356 1,357 1,435 1,1767 1,1905 1,2013 class-31}
+{220 1,222 1,225 1,1075 1,2013 class-55}
+{179 1,224 1,225 1,384 1,908 1,1409 1,1410 1,1411 1,2013 class-77}
+{117 3,392 1,705 1,1718 1,1719 2,1720 1,1919 1,1920 2,1921 2,2013 class-50}
+{80 1,144 1,396 1,677 1,709 1,712 1,713 1,714 1,868 1,1922 1,1923 1,1924 1,2013 class-228}
+{31 1,145 1,304 1,384 1,995 1,1000 1,1001 1,1143 1,1925 2,2013 class-187}
+{24 1,145 1,179 1,225 1,269 1,719 1,797 1,1219 1,1220 1,1734 1,1735 1,2013 class-74}
+{510 1,511 1,1647 1,1926 1,1927 1,1928 2,1929 1,1930 1,2013 class-218}
+{379 1,564 1,565 1,566 1,567 1,2013 class-62}
+{531 2,1086 1,1130 1,1774 1,1775 1,1777 1,1931 1,2013 class-169}
+{80 1,386 1,404 1,717 1,718 1,722 1,723 1,724 1,725 1,772 1,774 1,775 1,1335 1,1932 1,1933 1,1934 1,1935 1,1936 1,2013 class-197}
+{60 1,315 1,699 1,709 1,790 1,791 1,792 1,794 1,795 1,1103 1,1105 2,1379 1,1667 1,2013 class-126}
+{60 1,315 1,482 1,741 1,1103 1,1379 1,1937 2,1938 1,1939 1,1940 1,2013 class-113}
+{87 1,130 1,131 1,132 1,137 1,138 1,139 1,770 1,1046 1,1359 1,1360 1,1902 1,2013 class-225}
+{285 1,704 1,705 1,1676 1,1678 1,1679 1,1680 1,2013 class-188}
+{153 1,154 1,155 1,645 1,1050 1,2013 class-21}
+{377 1,1164 1,1165 1,2013 class-56}
+{335 1,812 1,947 2,1128 1,1941 1,1942 1,1943 1,1944 1,1945 1,1946 1,2013 class-92}
+{283 1,521 2,684 1,812 1,965 1,966 1,967 1,968 1,969 1,970 1,1827 1,1828 1,2013 class-224}
+{335 1,753 1,812 1,1128 1,1544 2,1942 1,1947 1,1948 1,1949 1,2013 class-66}
+{510 1,511 1,1647 1,1927 1,1928 2,1929 1,1930 1,2013 class-218}
+{52 1,1106 1,1950 1,1951 1,1952 1,1953 1,2013 class-196}
+{48 1,80 1,81 1,82 1,86 1,89 1,90 1,91 1,92 1,93 1,94 1,95 1,770 1,2013 class-67}
+{20 1,36 1,89 1,130 1,145 1,306 1,935 1,1414 1,1736 1,1815 1,1816 1,1817 1,1818 1,1819 1,2013 class-44}
+{20 1,89 1,145 1,306 1,325 1,589 1,932 1,1396 1,1397 1,1398 1,1399 1,1400 1,1401 1,1402 1,2013 class-104}
+{377 1,378 1,379 2,380 1,381 1,382 1,645 1,2013 class-128}
+{153 1,154 1,155 1,645 1,1050 1,2013 class-21}
+{1079 1,1081 1,1673 1,1954 1,1955 1,2013 class-59}
+{135 1,161 1,177 1,276 1,282 1,283 1,812 1,1592 1,2013 class-208}
+{377 1,383 1,645 1,2013 class-232}
+{6 1,14 1,305 1,306 1,387 1,397 1,398 1,399 1,404 1,405 1,406 1,407 1,2013 class-69}
+{244 1,580 1,581 1,617 1,1518 1,1519 1,1560 1,1765 1,1766 1,1956 1,1957 1,2013 class-20}
+{162 1,244 1,586 1,617 1,971 1,972 1,973 1,1958 1,1959 1,1960 1,1961 1,2013 class-10}
+{162 1,972 1,1286 1,1291 1,2013 class-180}
+{6 1,8 1,10 1,108 1,368 1,376 1,2013 class-152}
+{170 1,635 1,768 1,1640 1,1641 1,1642 1,1660 1,1962 1,1963 1,2013 class-110}
+{6 1,7 1,8 1,10 1,11 1,108 1,2013 class-87}
+{170 1,632 1,634 1,635 1,1435 1,1436 1,2013 class-127}
+{12 1,72 1,242 1,531 1,1964 1,2013 class-266}
+{244 1,580 1,581 1,588 1,617 1,2013 class-20}
+{580 1,617 1,797 1,919 1,1965 1,2013 class-123}
+{66 1,115 1,812 1,1596 1,1598 1,1599 1,2013 class-276}
+{503 1,550 1,814 1,819 1,820 1,849 1,850 1,1059 1,1966 1,1967 1,2013 class-213}
+{31 1,145 1,276 1,281 1,282 1,283 1,428 1,945 1,948 1,967 1,969 1,1916 1,1968 1,2013 class-14}
+{416 1,417 1,422 1,580 1,787 1,1792 1,1793 1,1794 1,2013 class-40}
+{220 1,344 1,348 1,349 1,350 1,646 1,699 1,2013 class-212}
+{20 1,145 1,179 1,220 1,221 1,224 1,226 1,227 1,228 1,229 1,299 1,643 1,2013 class-179}
+{20 1,145 1,179 1,225 1,451 1,453 1,454 1,455 1,456 1,1095 1,2013 class-133}
+{14 1,684 1,797 1,857 1,1310 1,1331 1,1332 1,1333 1,2013 class-230}
+{6 1,7 1,8 1,9 1,10 1,11 1,91 1,106 1,107 1,117 1,372 1,438 1,554 1,2013 class-87}
+{13 1,167 1,285 1,286 1,287 1,288 1,290 1,2013 class-242}
+{14 1,20 1,300 1,1217 1,1333 1,1521 1,1522 1,1524 1,1525 1,1969 1,2013 class-49}
+{12 1,242 1,2013 class-266}
+{564 1,950 1,951 1,952 1,2013 class-129}
+{8 1,12 1,13 1,14 1,15 1,16 1,19 1,2013 class-156}
+{8 1,12 1,14 1,16 1,356 1,357 1,1767 1,2013 class-31}
+{0 1,1 1,2 1,3 1,2013 class-48}
+{41 1,42 1,43 1,2013 class-93}
+{4 1,5 1,6 1,48 1,54 1,55 1,102 1,2013 class-9}
+{1164 1,1165 1,2013 class-56}
+{41 1,1257 1,1970 1,1971 1,2013 class-254}
+{285 1,866 1,896 1,2013 class-78}
+{258 1,372 1,423 1,428 1,429 1,877 1,2013 class-246}
+{8 1,9 1,107 1,108 1,117 1,374 1,513 1,843 1,1003 1,1972 1,1973 1,1974 1,1975 1,2013 class-75}
+{13 1,26 1,167 1,168 1,169 1,170 1,188 1,285 1,286 1,287 1,288 1,289 1,290 1,337 1,338 1,339 1,1976 1,2013 class-242}
+{161 1,580 1,800 1,801 1,803 1,807 2,808 1,1040 1,1251 1,1752 1,1977 1,1978 1,2013 class-36}
+{6 1,372 1,418 1,430 1,431 1,494 1,495 1,501 1,536 1,557 1,560 1,1053 1,1055 1,2013 class-244}
+{20 1,617 1,897 1,1304 1,1326 1,1348 1,1472 1,1979 1,2013 class-68}
+{379 1,564 1,565 1,566 1,567 1,2013 class-62}
+{20 1,611 1,612 1,614 1,778 1,779 1,848 1,1871 2,1980 1,2013 class-105}
+{4 1,5 1,41 1,42 1,43 1,48 1,79 1,99 1,437 1,2013 class-93}
+{265 1,503 1,543 1,547 1,548 1,549 1,550 1,551 1,552 1,553 1,1144 1,1367 1,1368 1,1369 1,2013 class-142}
+{6 1,107 1,636 1,639 1,641 1,642 1,655 1,842 1,927 1,1415 1,1417 1,1418 1,2013 class-118}
+{112 1,142 1,188 1,306 1,326 1,328 1,329 1,475 1,476 1,477 1,478 1,569 1,1003 1,1006 1,1143 1,1526 1,1527 1,1981 1,1982 1,2013 class-95}
+{244 1,617 1,1079 1,1081 1,1346 1,1556 3,1578 1,1673 1,1983 1,1984 1,1985 1,1986 1,1987 1,2013 class-59}
+{244 1,617 1,1079 1,1080 1,1081 1,1082 1,1556 2,1778 1,1779 1,1780 1,1782 2,1783 1,1784 1,1785 1,1988 1,1989 1,2013 class-54}
+{2 1,14 1,20 1,145 1,201 1,272 1,300 1,304 1,306 1,466 1,467 1,771 1,1408 1,1504 1,2013 class-116}
+{377 1,1164 1,1165 1,2013 class-56}
+{418 1,494 1,495 1,501 1,1053 1,1055 1,1079 1,1556 1,1620 1,1621 1,2013 class-277}
+{196 1,503 1,504 1,507 1,1669 1,2013 class-186}
+{6 1,47 1,48 1,51 1,52 1,54 1,183 1,372 1,2013 class-112}
+{244 1,580 1,581 1,617 1,942 1,1518 1,1560 1,1765 1,1766 1,2013 class-20}
+{457 1,647 1,648 1,649 1,650 1,662 1,1564 1,2013 class-64}
+{305 1,444 1,688 1,689 1,690 1,691 1,692 1,1144 1,1990 1,2013 class-15}
+{57 1,148 1,709 1,868 1,1007 1,1008 1,1009 1,1010 1,1923 1,2013 class-146}
+{20 1,617 1,1079 1,1348 1,1991 1,1992 1,1993 1,1994 1,2013 class-275}
+{20 1,580 2,586 1,587 1,941 1,942 1,2013 class-172}
+{6 1,8 1,9 1,10 1,91 1,103 1,104 1,107 1,109 1,117 1,1995 1,2013 class-211}
+{587 1,617 1,797 1,897 1,1304 1,1305 1,1306 2,1307 1,1309 1,2013 class-259}
+{145 1,177 1,178 1,179 1,180 1,257 1,258 1,659 1,660 1,661 1,2013 class-80}
+{179 1,220 1,221 1,224 1,225 1,227 1,228 1,229 1,2013 class-179}
+{20 1,582 1,617 1,1079 1,1556 2,1632 1,1996 1,1997 1,1998 1,1999 1,2000 1,2013 class-275}
+{213 1,214 1,215 1,776 1,2001 1,2013 class-25}
+{178 1,179 1,257 1,258 1,259 1,261 1,263 1,264 1,265 1,764 1,2013 class-76}
+{377 1,378 1,379 2,380 1,381 1,382 1,2013 class-128}
+{377 1,1702 1,1872 1,2013 class-253}
+{8 1,12 1,14 1,16 1,17 1,18 1,356 1,357 1,502 1,1542 1,1767 1,2013 class-31}
+{6 1,112 1,305 1,398 1,399 1,404 1,405 1,406 1,407 1,1533 1,2013 class-69}
+{6 1,112 1,305 1,398 1,399 1,404 1,406 1,1259 1,1383 1,1384 1,2013 class-164}
+{220 1,344 1,345 1,346 1,347 1,348 1,349 1,350 1,2013 class-212}
+{699 1,709 1,790 1,791 1,795 1,868 1,891 1,2002 1,2013 class-126}
+{20 1,617 1,647 1,899 1,1153 1,1622 1,2003 1,2004 1,2013 class-248}
+{580 1,617 1,797 1,919 1,1965 1,2005 1,2006 1,2013 class-123}
+{20 1,580 1,617 1,1279 1,1280 1,2005 1,2007 1,2008 1,2009 1,2010 1,2013 class-98}
+{20 1,36 1,580 1,617 1,941 1,942 1,943 1,944 1,1747 1,2013 class-172}
+{6 1,54 1,55 1,102 1,512 1,2011 1,2012 1,2013 class-9}
+{178 1,257 1,259 1,264 1,265 1,268 1,549 1,710 1,807 1,2013 class-76}
+{0 1,144 1,201 1,208 1,457 1,458 1,459 1,573 1,576 1,2013 class-29}
+{2 1,130 1,131 1,132 1,134 1,137 1,138 1,139 1,669 1,1063 1,2013 class-225}
+{312 1,313 1,314 1,315 1,316 1,317 1,318 1,2013 class-203}
+{611 2,614 1,778 1,779 1,847 1,848 1,2013 class-105}
+{87 1,589 1,932 1,1044 1,1045 1,1046 1,1047 1,1048 1,1049 1,2013 class-268}
+{145 1,179 1,180 1,257 1,258 1,266 1,660 1,661 1,2013 class-80}
+{162 1,617 2,626 1,796 1,797 1,798 1,2013 class-233}
+{80 1,112 1,305 1,404 1,717 1,718 1,719 1,722 1,723 1,724 1,725 1,2013 class-197}

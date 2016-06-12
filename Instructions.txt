@@ -1,0 +1,97 @@
+-> If you use Turkish_Ecommerce_Products_by_Gozukara_and_Ozel_2016 dataset, please cite: //The article is not published yet, please contact us via furkangozukara@gmail.com
+
+-> Turkish_Ecommerce_Products_by_Gozukara_and_Ozel_2016 dataset is composed as below:
+->-> Top 50 E-commerce websites that operate in Turkey are crawled, and their attributes are extracted.
+->-> The crawling is made between 2015-01-13 15:12:46 ---- 2015-01-17 19:07:53 dates.
+->-> Then 250 product offers from Vatanbilgisayar are randomly selected.
+->-> Then the entire dataset is manually scanned to find which other products that are sold in different E-commerce websites are same as the selected ones.
+->-> Then each product is classified respectively.
+->-> This dataset contains these products along with their price (if available), title, categories (if available), free text description (if available), wrapped features (if available), crawled URL (the URL might have expired) attributes
+
+-> The dataset files are provided as used in the study. 
+-> ARFF files are generated with Raw Frequency of terms rather than used Weighting Schemes for All_Products and Only_Price_Having_Products. The reason is, we have tested these datasets with only our system and since our system does incremental clustering, even if provide TF-IDF weightings, they wouldn't be same as used in the article. More information provided in the article.
+->-> For Macro_Average_Datasets we provide both Raw frequency and TF-IDF scheme weightings as used in the experiments
+
+-> There are 3 main folders
+-> All_Products: This folder contains 1800 products.
+->-> This is the entire collection that is manually labeled. 
+->-> They are from 250 different classes.
+-> Only_Price_Having_Products: This folder contains all of the products that have the price feature set. 
+->-> The collection has 1721 products from 250 classes. 
+->-> This is the dataset that we have experimented.
+-> Macro_Average_Datasets: This folder contains 100 datasets that we have used to conduct more reliable experiments. 
+->-> Each dataset is composed of selecting 1000 different products from the price having products dataset and then randomly ordering them.
+
+-> When doing dynamic/incremental Hierarchical Clustering, the order of the input (records) does matter. 
+->-> Thus, we provide our datasets with the same order used in our experiments.
+
+-> The file names and their description inside each folder is presented below:
+->-> All files contains first the ID of the product and separated from the value by ';' character
+* Preprocessed_Unigram_Word_Dataset: Contains preprocessed product titles. Each title is tokenized as unigram words
+* Preprocessed_Unigram_Word_Plus_N2_Gram_Dataset: Contains preprocessed product titles. Each title is tokenized as unigram words + 2-gram character based transformation
+* Product_Classes: Contains product_id and the product class value
+* Product_Prices: Contains product_id and the product price value
+* Original_Crawled_URLs: Contains product_id and crawled URL of the product
+* Raw_Entire_Dataset: Contains raw titles of the products that are in that dataset
+* Raw_Product_Categories: Contains raw categories of the products that are in that dataset. It may not be available. Each category is separated by '>' character
+* Raw_Product_Explanation: Contains raw extra information of the products that are in that dataset. It may not be available.
+* Raw_Product_Wrapped_Features: Contains raw features of the products that are in that dataset. It may not be available.
+** Each feature is '$$' and each feature label and the feature value is separated by '##'
+
+-> In our experiments, we have only utilized the title and the price attributes of the products
+->-> However, we still provide the other attributes as well for the researchers who may utilize them
+
+-> The list of the E-commerce websites and several statistics of the crawling are presented below
+->-> The final crawling is made at the date 2015-01-17 19:17:01
+
+Root Site Id;Root Site Url;Total Crawled Urls Count;Product Pages Count;Total Crawl Success Times;Crawling Failed Times
+1;http://www.vatanbilgisayar.com;9,650;7,891;9,670;158
+2;http://www.teknosa.com/;11,582;10,935;11,580;193
+3;http://www.istanbulbilisim.com.tr/;54,331;41,210;54,593;2,138
+4;http://www.gold.com.tr/;27,752;15,484;34,092;1,267
+5;http://www.hizlial.com/;222,073;191,604;222,367;5,204
+6;http://www.bimeks.com.tr/;12,673;4,329;18,407;1,223
+7;http://www.mediamarkt.com.tr/;12,543;10,704;12,562;480
+8;http://www.kliksa.com/;112,019;89,059;112,569;2,299
+9;http://www.webdenal.com/;73,939;55,574;82,686;1,211
+10;http://www.ereyon.com.tr/;48,704;42,419;49,105;2,116
+11;http://www.pcdepo.com;4,584;2,148;4,882;125
+12;http://www.incehesap.com/;11,197;3,524;11,214;229
+13;http://www.exa.com.tr/;3,366;2,086;3,360;152
+14;http://www.alisverisyap.com/;400;236;400;2
+15;http://www.eksenbilgisayar.com/;4,249;3,810;4,253;102
+16;http://www.bizdeuygun.com/;36,725;33,414;73,456;69
+17;http://www.bedavacim.com.tr/;13,679;10,523;13,681;629
+18;http://www.netsiparis.com/;46,635;35,179;49,355;923
+19;http://www.alalimbakalim.com/;4,116;1,836;4,118;82
+20;http://www.buroteknik.com/;40,455;23,243;81,000;68
+21;http://www.teknobiyotik.com/;3,915;2,897;3,910;113
+22;http://www.netreyonum.com/;767;399;770;3
+23;http://www.sanalreyonum.com/;27,477;14,588;27,455;1,704
+24;http://www.deveyuku.com/;20,106;14,766;18,908;14,920
+25;http://www.aynigunkargo.com/;17,368;14,776;16,812;6,977
+26;http://www.novabilgisayar.com/;1,361;1,038;1,363;26
+27;http://www.bizdehesapli.com/;13,683;9,983;13,683;282
+28;http://www.herseyenucuz.com;482;106;721;14
+29;http://www.webdensiparis.com;24,365;14,419;24,285;1,796
+30;http://www.birnumaram.com;10,823;8,944;10,825;233
+31;http://www.kapiteslim.com;5,475;4,221;5,475;136
+32;http://www.dijitall.com;12,754;8,191;9,640;37,356
+33;http://www.bilisimport.com;14,932;12,538;14,941;436
+34;http://www.deposhop.com;22,377;17,911;23,461;22,004
+35;http://www.telepanya.com/;3,160;2,068;3,172;750
+36;http://www.tvt.com.tr;877;293;877;15
+37;http://www.extraucuzluk.com;11,236;8,361;11,365;352
+38;http://www.ucuzlukcu.com;10,109;9,118;10,108;302
+39;https://www.yuppigo.com;19,576;10,443;19,584;389
+40;https://www.tuslagelsin.com;3,875;1,174;7,697;248
+41;http://www.teknolojiankara.com;3,189;2,838;3,189;128
+42;http://www.hemensepet.com;15,110;7,538;15,110;444
+43;http://www.websibir.com;300;202;600;0
+44;http://www.aksarayiletisim.com;119;89;239;0
+45;http://www.enhesapliyiz.com;1,217;469;619;7,189
+46;http://www.nasabilgisayar.com;1,891;1,395;1,891;205
+47;http://www.trdukkan.com;7,094;3,609;7,092;163
+48;http://www.worldteknoloji.com;4,561;4,197;4,561;173
+49;http://www.jettekno.com;1,863;1,703;1,865;116
+50;http://www.escmarket.com;560;404;560;92
