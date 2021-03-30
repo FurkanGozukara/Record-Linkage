@@ -1,4 +1,4 @@
-# Turkish Ecommerce Products Dataset For Record Linkage
+# Turkish E-commerce Products Dataset For Record Linkage
 
 A repository for datasets which are used in record-linkage / clustering research studies. Datasets for product clustering, datasets for identity resolution.
 
